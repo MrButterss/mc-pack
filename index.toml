@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5206ecaa7deacbdb38d292be484bd584bac736d1bed2fb20289020a65a7f132"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "fca852b6e4581ffa88d4c890a307a0a49fbd51d6acaed6c3648cb5db8dc460e0"
+metafile = true

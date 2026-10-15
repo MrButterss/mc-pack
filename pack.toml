@@ -1,0 +1,13 @@
+name = "Create Colony Lean"
+author = "kattiya"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f3da1a9b782ec10d15dc4ae39e2b38b72b20668d9c4a2b3e2896587ec83029e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.255"
