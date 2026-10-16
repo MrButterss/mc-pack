@@ -21,6 +21,11 @@ hash = "f4dcaf267221fad7119a76074b579c1c45ca8f4f29f6e2ab60918cbf061d317e"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -46,6 +51,11 @@ hash = "22d9a3d68d6d66cce6665541ec069cd65e40ac1f8b1e1a5cbdc30746de64363a"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "97fcda99a93799281fe5fe2a11f9fd43945983d87de2790d1537a2b4db017b3d"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-neoforge.pw.toml"
 hash = "14fc298432c296bfd4fbfd542290d305e9f58c8281310e681009de49f20f8c75"
+metafile = true
+
+[[files]]
+file = "mods/blockpalette-studio.pw.toml"
+hash = "666560b1ea5bde4a61157aefe2bffc427de152cc52b2c23ea0688529a8bf2219"
 metafile = true
 
 [[files]]
@@ -301,6 +316,11 @@ hash = "f36f2ff7ad5288638bb378f3efe3aa49b782c947122489d4886343c0014d7703"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "c52ebaf376db469f11508fbe4bb30017525d5210c7d72e9c59306044662d8ea8"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "4bd3667f570f82fb1480f173ffb6259876f4620de3a085fb8d7a442d214c5b51"
 metafile = true
@@ -437,12 +457,17 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c6aba607b0c335394c38e9e20fdff3d27c494d944099e6770629e907eaf7e47e"
+hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
 metafile = true
 
 [[files]]
@@ -566,6 +591,11 @@ hash = "f5bba8e4957d5f6d549838d9997b04056d5b15182cccdcd5827c7ee8ae093917"
 metafile = true
 
 [[files]]
+file = "mods/mech-trowel.pw.toml"
+hash = "2c31453e756e64c0f9edcad1f716900ddd07b1ea4c8c955a2d001725c65366c1"
+metafile = true
+
+[[files]]
 file = "mods/midgardd.pw.toml"
 hash = "1982346573f60ab5b1188e1c91a2287392919ec5a7312a9cdc83f1de6a480d07"
 metafile = true
@@ -598,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "48f5f92618ff0a13d6c9bd4b848eb8dc53b1dc476217c75c78e450113fe59030"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
@@ -658,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "0036fedda388192221893df1b2e5c1e23af000f98c52fea383e6d2d1e85a3bcd"
 metafile = true
 
 [[files]]
@@ -771,6 +811,11 @@ hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "83e1cdd88c8686b90ab7c66bb1ae7ae8f82d4db6430d2fcf6792bb6ccf49c286"
 metafile = true
@@ -803,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "cd2c6fa89eecaaa1aadf369b043ceb45e99778cacd590e3fc01b0dcae2e6557d"
 metafile = true
 
 [[files]]
@@ -846,6 +896,11 @@ hash = "6f7259f3f66eed62b0d6140d0b65745d28539fad842e2bd187195617835ea3aa"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "8fa75a87e3b90e25fb8a298c2250144607ff3b2d2052d0246f660719ea709195"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
@@ -853,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
 metafile = true
 
 [[files]]
@@ -891,8 +951,18 @@ hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/treeplacer.pw.toml"
 hash = "62940bf18c23df3babc7b89f7af236030958e5973eab2e2a2fec805cad2bf1e4"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "98ef5714a273c9153fbfaca195806d36f568556819dde7b90ec6561646bede98"
 metafile = true
 
 [[files]]

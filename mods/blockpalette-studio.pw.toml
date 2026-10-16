@@ -1,0 +1,13 @@
+name = "BlockPalette Studio"
+filename = "BlockPaletteStudio-1.21.1-NeoForge-v2.14.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6017afdaaecda89e672d0f23f8018a67d9ee610f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9117963
+project-id = 1640531
