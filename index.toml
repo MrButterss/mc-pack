@@ -6,11 +6,6 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-no-horizon.pw.toml"
-hash = "f0d1cbbbe014f2f8c421893ec8ee31b0ef9e07ab4561f452b81315bb95015fce"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
@@ -66,16 +61,6 @@ hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
 metafile = true
 
 [[files]]
-file = "mods/born-in-chaos.pw.toml"
-hash = "2e0cffff4b9ff3f29e93a7af7ef803156d8d5b0e6e4d15b51092b5ca68ef0136"
-metafile = true
-
-[[files]]
-file = "mods/born-in-configuration.pw.toml"
-hash = "704cbacca2def086260c1f7f1ba2354417e301e86d28809fce2317401d327eec"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "816ae53b09d3b3c2e3b4e74470bf2332fcde8a5ae322e1a39bd11656ef1fa8e6"
 metafile = true
@@ -93,16 +78,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
-metafile = true
-
-[[files]]
-file = "mods/cbc-neo-warfare.pw.toml"
-hash = "372291300bbf4e4a0589d5c6bc9b075d28b70d5bf247d1b64ab6f520b68e3e7b"
-metafile = true
-
-[[files]]
-file = "mods/chaos-moon.pw.toml"
-hash = "5726928ff412ccf972f1e82c1e2899df8e85aa229850e37f14b07709b99db1da"
 metafile = true
 
 [[files]]
@@ -151,11 +126,6 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
-file = "mods/cooks-collection.pw.toml"
-hash = "6f3ca9bd523f79878881be9f87ee9f95191d39de3a3170107d727a66739ea7d5"
-metafile = true
-
-[[files]]
 file = "mods/copycats-aeronautics-weight.pw.toml"
 hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
 metafile = true
@@ -191,38 +161,8 @@ hash = "f8a8bf8c2bdc8d39c0cf0ff5248476fae137af4836390489b1d2fe2af7237e16"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-tournament.pw.toml"
-hash = "79c54a8df1276318d9c5badcc774c7f39ac4e383d37a90c4d36ec8c65f0fa41d"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-transmission-linkage.pw.toml"
-hash = "6c39c1979ff1afd369c600a5879ea5fae8866a29e2745a2426c12afce118e62a"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronauticstoolgun.pw.toml"
-hash = "16c8fc3a75a0ea3fe5bed91dbd85f522dce066510eafca8e9fe2b2849b2bfa62"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons-advanced-technologies.pw.toml"
-hash = "f7066538c0086fca271ddf7d26b223d932a205e80fec08e6c14c9b4c245ed7b5"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons-going-ballistic.pw.toml"
-hash = "3517aadc7df7ff28bafc5bb0f40d06815c7610a9e4d67266bcd0b47fcb227ec3"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
 metafile = true
 
 [[files]]
@@ -243,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "8dfe72b3ce05a8e6a13f499b432ab0073e0f1a153273ea0291dcfe646814eff9"
-metafile = true
-
-[[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "421fe3905c6a32fbcc3e102dccbde7ee9dc43076c43cab25b0806f1e6b6726b7"
 metafile = true
 
 [[files]]
@@ -386,23 +321,8 @@ hash = "9d93dfc367eb58ff112a7ea21959b8c8864890d0a0b5f9d825fa67dba9262471"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire-with-sable.pw.toml"
-hash = "0c62d1fc00977f2bd74cd0ba703dd69aba52be01e0ddfdedb6a24155edc21ccc"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation-forge.pw.toml"
 hash = "36ca501773cbda3b0df3ab3fec5188337fe4f4dd7918dcf0a7fbb5965b1c41c8"
-metafile = true
-
-[[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "d3043b241048f30e200dc710578d583345182b687658fc6723b97bb9f81b29ce"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
@@ -448,16 +368,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
-metafile = true
-
-[[files]]
-file = "mods/farmers-sandwiches.pw.toml"
-hash = "11431baa8a1c9fb911e9d9b33a8d2daa041eade02e1101f8cd103c44a93229c8"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -616,11 +526,6 @@ hash = "4712dc4804fde8c24d7c4bf3b2c582ce3f4d3c0d079567a3c57526066a827da2"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-food-variety-fix.pw.toml"
-hash = "7ad07c65b8fcfb6596abb9c39083ba9fa074bf18ad73cd5d48894a15e7aa72d9"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-tweaks.pw.toml"
 hash = "96e3f8f34ff7f59397f0258f4ce03c6f4163df9c1c1b8fc0bdd1d708e0bb144d"
 metafile = true
@@ -723,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
-metafile = true
-
-[[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
-hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
@@ -916,11 +816,6 @@ hash = "4b78f845d8eb6f5b47d4cd9ad534dc5e1a11e45fafbcd4106b25479bd2e080b1"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
 metafile = true
@@ -1023,11 +918,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "1500696334c198418def3441b2a5764156c1b68d7de1882d345f61d842dc3d25"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stoneborn-trash-slot-compat.pw.toml"
-hash = "61a5f4472240846dca4199d5eae91c1ace44fc4dd4db39a3d6b25aa96a831c01"
 metafile = true
 
 [[files]]
