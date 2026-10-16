@@ -6,6 +6,18 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "e149b62d1cfdd10008617a2b4da0ec63a99966aefc96f9a1901c4c8ea01b4278"
+
+[[files]]
+file = "config/minecolonies-server.toml"
+hash = "1367b6d0e147f41ddc3575e5c89fd8882f66f5cb72446052b487e82f86e3bd28"
+
+[[files]]
+file = "config/sound_physics_aeronautics/soundphysics.properties"
+hash = "1b8a53bc2054e51227f34fa91a92d9763fa5d5bc09904ed6cc1c26808c9db7c2"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
