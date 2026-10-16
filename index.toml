@@ -471,11 +471,6 @@ hash = "c9f1d5f4883252ca57b26c2fd4264a12f3b407be21097bbfefacdcb9fa9d7e4a"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "e937517aca4968decca4550ea9f436bcf371892fb6bd9dcd0d6b06d0beb350a4"
 metafile = true
@@ -893,11 +888,6 @@ metafile = true
 [[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "b6a3a48500f124713b521313c57898d36ea156d9b4d41a43ca0a21ad35c1a47a"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "eff7ebd7bc65ef5d3ba8ac731bc3fb2fd9697566f53dcedbfc55d0b4bb55d60d"
 metafile = true
 
 [[files]]
