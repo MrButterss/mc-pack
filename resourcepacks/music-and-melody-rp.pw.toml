@@ -1,0 +1,13 @@
+name = "Music and Melody RP"
+filename = "music-and-melody-1.21-r3.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/4nKEadi9/music-and-melody-1.21-r3.0.zip"
+hash-format = "sha512"
+hash = "a49c4f63db74ccc2823d34ef166e1a581b55eae28a8e778b4fe6d7b7170bf5b9636b32e7e751362de66b68e1d91f6fabbf6758700bc96a7f838d23deb5df3f43"
+
+[update]
+[update.modrinth]
+mod-id = "dAU9uKaA"
+version = "4nKEadi9"

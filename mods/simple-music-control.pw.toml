@@ -1,0 +1,13 @@
+name = "Simple Music Control"
+filename = "simple_music_control-neoforge-1.5.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff5096262c068a0836ed810a068a469aa5e35c64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9130406
+project-id = 1185599

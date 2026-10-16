@@ -1,0 +1,13 @@
+name = "Mandala's GUI - Dark mode - Utopia extension"
+filename = "mandala_utopia_1.21-1.21.1-0.12.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkN0Mtzw/versions/NNQNWfqM/mandala_utopia_1.21-1.21.1-0.12.zip"
+hash-format = "sha512"
+hash = "c8e144263d860dce08a709e67d3ca7667475f081ad06ed5d0ebb228212053a29273f8953941bb711fa6b36360cf99a678f5a65017f58e63aab8114ff5f881d78"
+
+[update]
+[update.modrinth]
+mod-id = "KkN0Mtzw"
+version = "NNQNWfqM"
