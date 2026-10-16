@@ -1,0 +1,13 @@
+name = "MineColonies Food Variety Fix"
+filename = "minecolonies_food_variety_fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaec8571a689d9844cd9e764389c98d523527fe4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8849459
+project-id = 1689510

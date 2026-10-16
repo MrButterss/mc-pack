@@ -1,0 +1,13 @@
+name = "Treeplacer"
+filename = "treeplacer-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48f6825a9caaab33cc2bb49d2cfb594421427c60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8176253
+project-id = 840202

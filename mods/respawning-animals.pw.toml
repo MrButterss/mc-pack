@@ -1,0 +1,13 @@
+name = "Respawning Animals"
+filename = "RespawningAnimals-v21.1.2-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71b853a382ff2a17e91dc1db5728dd205e29cf74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6879482
+project-id = 322765

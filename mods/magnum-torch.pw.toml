@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e507e0c5c0008d541da9f1f64842446c4ecb9d1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359251
+project-id = 593981

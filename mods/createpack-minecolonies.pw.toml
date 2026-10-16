@@ -1,0 +1,13 @@
+name = "Create Stylepack for Minecolonies"
+filename = "createbridge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5d0f38d577d6a68933c05d0e066a3c9f616d2ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8873913
+project-id = 1677471

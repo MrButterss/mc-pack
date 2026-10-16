@@ -1,0 +1,13 @@
+name = "Enhanced Audio: Ambience (Sound Pack)"
+filename = "Enhanced Audio Ambience r2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48197034431ec37e00f08b018e4d01afd03214e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7873342
+project-id = 847801

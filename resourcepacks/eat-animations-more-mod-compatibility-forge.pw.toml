@@ -1,0 +1,13 @@
+name = "Eating Animations More Mod Compatibility [Neo|Forge]"
+filename = "§e[NeoForge]EatAnimationsMoreCompat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa664c168c0d4bc79eba722c02c2032d0259a1f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9065479
+project-id = 1702244

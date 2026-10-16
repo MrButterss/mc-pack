@@ -1,0 +1,13 @@
+name = "Enchantment Enhancements"
+filename = "Enchantment Enhancements v3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a06d285822b772c8c903d89ccaf8b5b17798feeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8963755
+project-id = 1226481

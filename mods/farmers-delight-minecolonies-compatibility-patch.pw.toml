@@ -1,0 +1,13 @@
+name = "Farmer’s Delight × MineColonies Compatibility Patch"
+filename = "mcfd-compat-0.1.6-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "827f2ad96e8bbe16f60a2b14be76c320b0739fde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8962936
+project-id = 1709716

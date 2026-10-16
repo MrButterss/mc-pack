@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Tournament"
+filename = "create-aeronautics-tournament-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d1dd06ec77df1c1d2a9268fa1b6d0688519d68c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7960187
+project-id = 1520646

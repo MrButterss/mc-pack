@@ -1,0 +1,13 @@
+name = "Shrimp's Distinct Potions"
+filename = "Shrimps-Distinct-Potions.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffae9b82b24dd6659ada4681d786ca34f43b1576"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5712057
+project-id = 856652

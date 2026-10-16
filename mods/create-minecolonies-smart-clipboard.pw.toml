@@ -1,0 +1,13 @@
+name = "Create: Minecolonies Smart Clipboard"
+filename = "create-minecolonies-smart-clipboard-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0afa05538f94886abe1f879098f486e17df8575b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8413176
+project-id = 1605971

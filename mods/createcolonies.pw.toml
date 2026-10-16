@@ -1,0 +1,13 @@
+name = "CreateColonies"
+filename = "createcolonies-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34a0e739740be5467850d1c697389ad1d596af22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8073443
+project-id = 1332665

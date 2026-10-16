@@ -1,0 +1,13 @@
+name = "STONEBORN Trash Slot compat (RPG Theme)"
+filename = "STONEBORN Trash Slot compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31ec07f53c80228eee0f0f35680824084bc8027a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5786041
+project-id = 1114636

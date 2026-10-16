@@ -1,0 +1,13 @@
+name = "Create: Movable Tracks"
+filename = "movabletracks-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5899b119c95ac73feee94f6f3842605a68de6cf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7890455
+project-id = 1494226

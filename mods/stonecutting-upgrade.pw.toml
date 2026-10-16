@@ -1,0 +1,13 @@
+name = "Stonecutting Upgrade"
+filename = "StonecuttingUpgrade-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebffb6445f6c7e1b52e333256eb18bc24ee221b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8812154
+project-id = 1560725

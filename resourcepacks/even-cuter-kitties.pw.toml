@@ -1,0 +1,13 @@
+name = "Even Cuter Kitties ♡  Cats in Java"
+filename = "Even Cuter Kitties 3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "011226f5bd5becb5b26f6a668a6b2bfc2205e556"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8919652
+project-id = 1680361

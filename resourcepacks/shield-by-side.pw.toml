@@ -1,0 +1,13 @@
+name = "Shield By Side"
+filename = "Shield By Side 1.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d0440d3d7f3718df00c5835ac51c6371bd884be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9065631
+project-id = 1252011

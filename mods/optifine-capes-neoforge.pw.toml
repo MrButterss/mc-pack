@@ -1,0 +1,13 @@
+name = "Show My OptiFine Cape"
+filename = "optifinecapes-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12c1136817dcff10c601cecd7404eb8965dfb9b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5680646
+project-id = 1093672

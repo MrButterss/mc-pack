@@ -1,0 +1,13 @@
+name = "Open Together"
+filename = "OpenTogether-v21.1.2-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f56ea5e1d51b203f42d9ed4b13190a58f308736d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8852729
+project-id = 1572988
