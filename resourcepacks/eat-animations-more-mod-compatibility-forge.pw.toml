@@ -1,6 +1,6 @@
 name = "Eating Animations More Mod Compatibility [Neo|Forge]"
 filename = "§e[NeoForge]EatAnimationsMoreCompat.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

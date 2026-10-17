@@ -75,6 +75,11 @@ def main():
         if side not in ("client", "server", "both"):
             errors.append(f"{p.relative_to(ROOT)}: side is {side!r}")
 
+    for p in files("resourcepacks/*.pw.toml", "shaderpacks/*.pw.toml"):
+        side = tomllib.loads(p.read_text(encoding="utf-8")).get("side")
+        if side != "client":
+            errors.append(f"{p.relative_to(ROOT)}: resource/shader pack must be side = \"client\", is {side!r}")
+
     if "--no-index" not in sys.argv:
         packwiz = shutil.which("packwiz")
         if not packwiz:

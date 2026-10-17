@@ -1,6 +1,6 @@
 name = "Even Cuter Kitties ♡  Cats in Java"
 filename = "Even Cuter Kitties 3.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

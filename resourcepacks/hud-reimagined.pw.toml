@@ -1,6 +1,6 @@
 name = "HUD Reimagined"
 filename = "§bHUD§8-§bReimagined§0_§8[v1]§0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/zpa9h4dN/versions/LfToEZ6t/%C2%A7bHUD%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78%5Bv1%5D%C2%A70.zip"

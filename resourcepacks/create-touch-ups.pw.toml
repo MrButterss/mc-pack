@@ -1,6 +1,6 @@
 name = "Create Touch-Ups"
 filename = "Create Touch-Ups v1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

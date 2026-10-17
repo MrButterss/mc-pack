@@ -12,34 +12,9 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: stable
-      - run: go install github.com/packwiz/packwiz@latest
+      - run: go install github.com/packwiz/packwiz@170b22d785959dda5876b54b7f16e1b807a57fb6
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
       - run: python tools/check.py --ci
 
-  server-boot:
-    needs: validate
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - name: Boot NeoForge server with the pack
-        run: |
-          docker run -d --name mc \
-            -e EULA=TRUE -e TYPE=NEOFORGE -e VERSION=1.21.1 -e NEOFORGE_VERSION=21.1.262 \
-            -e MEMORY=5G \
-            -e PACKWIZ_URL=https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/pack.toml \
-            itzg/minecraft-server
-          for i in $(seq 1 180); do
-            if docker logs mc 2>&1 | grep -q 'Done ('; then echo "server booted"; exit 0; fi
-            if [ "$(docker inspect -f '{{.State.Running}}' mc)" != "true" ]; then echo "server exited"; break; fi
-            sleep 5
-          done
-          echo "::error::server did not reach Done"
-          exit 1
-      - name: Server log
-        if: always()
-        run: docker logs mc 2>&1 | tail -n 300
-      - name: Crash report
-        if: failure()
-        run: docker exec mc sh -c 'cat /data/crash-reports/*.txt' 2>/dev/null || docker cp mc:/data/crash-reports - 2>/dev/null | tar -xO 2>/dev/null || true

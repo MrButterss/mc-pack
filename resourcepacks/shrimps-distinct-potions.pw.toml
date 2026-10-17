@@ -1,6 +1,6 @@
 name = "Shrimp's Distinct Potions"
 filename = "Shrimps-Distinct-Potions.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

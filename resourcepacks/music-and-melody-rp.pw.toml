@@ -1,6 +1,6 @@
 name = "Music and Melody RP"
 filename = "music-and-melody-1.21-r3.0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/4nKEadi9/music-and-melody-1.21-r3.0.zip"

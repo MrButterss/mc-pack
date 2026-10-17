@@ -1,6 +1,6 @@
 name = "Alternative Rain Sounds"
 filename = "[Compressed] Alternative Rain Sounds 1.21-1.21.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

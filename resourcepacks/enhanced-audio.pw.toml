@@ -1,6 +1,6 @@
 name = "Enhanced Audio (Sound Pack)"
 filename = "Enhanced Audio r7.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

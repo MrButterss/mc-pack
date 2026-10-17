@@ -14,10 +14,9 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: stable
-      - run: go install github.com/packwiz/packwiz@latest
+      - run: go install github.com/packwiz/packwiz@170b22d785959dda5876b54b7f16e1b807a57fb6
       - run: packwiz refresh
-      - run: packwiz modrinth export -y -o "Create-Colony-Lean-${GITHUB_REF_NAME}.mrpack"
       - run: packwiz curseforge export -o "Create-Colony-Lean-${GITHUB_REF_NAME}-curseforge.zip"
-      - run: gh release create "$GITHUB_REF_NAME" *.mrpack *.zip --generate-notes
+      - run: gh release create "$GITHUB_REF_NAME" *.zip --generate-notes
         env:
           GH_TOKEN: ${{ github.token }}

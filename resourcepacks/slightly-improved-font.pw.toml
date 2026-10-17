@@ -1,6 +1,6 @@
 name = "Slightly Improved Font (32x)"
 filename = "Slightly-Improved-Font-1.1.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

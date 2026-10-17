@@ -1,6 +1,6 @@
 name = "Enhanced Audio: Ambience (Sound Pack)"
 filename = "Enhanced Audio Ambience r2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

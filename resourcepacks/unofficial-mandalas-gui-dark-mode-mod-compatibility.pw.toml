@@ -1,6 +1,6 @@
 name = "(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility"
 filename = "Mandala's GUI - Dark Mode Compat 0.3.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/8vfIIrYM/versions/eRWE69oA/Mandala%27s%20GUI%20-%20Dark%20Mode%20Compat%200.3.zip"

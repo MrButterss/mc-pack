@@ -1,6 +1,6 @@
 name = "Mandala's GUI - Dark mode - Utopia extension"
 filename = "mandala_utopia_1.21-1.21.1-0.12.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/KkN0Mtzw/versions/NNQNWfqM/mandala_utopia_1.21-1.21.1-0.12.zip"

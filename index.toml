@@ -1277,125 +1277,125 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
-hash = "ae3307d13139fda98d71f6db9063593d05e62a8fdf2e11679b89b7c9d659fc98"
+hash = "8da021515751ef33b22fd871b35e07ef7f54d7c66e020881bde1ae7f5aa06542"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chests-reimagined.pw.toml"
-hash = "91773e4690e0097e1643f29be59999748d2098cd760a4462f6ed32b61bceab0f"
+hash = "4cafb65c4c6a40f6c606648f0ecc01f35ee16c4edaaa8d92dcfb6016d16ff2fa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-touch-ups.pw.toml"
-hash = "1de28a6963cf2ab88c1819f73bb8aba04f71ba6a154c86efaf6c4a23b373e841"
+hash = "32881fab42234726a5de566a4562ca70ae924f1c7b0332b6d5b25af656fdba68"
 metafile = true
 
 [[files]]
 file = "resourcepacks/drigo-3d-lantern-s-x-punchy.pw.toml"
-hash = "0982c1b83825177a3fd50e3e3d5fb5a488dfa042e9cbcb5d108bf02f9126ccec"
+hash = "1f7796888f7d2ebeb746e9c2ea1c4774b3d9538b0a2d17b073f1b82e91b5a017"
 metafile = true
 
 [[files]]
 file = "resourcepacks/eat-animations-more-mod-compatibility-forge.pw.toml"
-hash = "2a02be5909c822d7dcd1b09b1bb50c5dbac744f49071b76af33866c29a20f21e"
+hash = "35e72a16a64286320f82c686c833232d1ea77e5e6198eed8dc04500dc6fb1fcf"
 metafile = true
 
 [[files]]
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
-hash = "288f9f1f17f546ad8df99add740a415f670accfefac65b545ff5da8c99a0306a"
+hash = "6354f0c4b04a8cff72666c63858c1f03f35dd39d5f420fd08bcc0fd855a9a5a7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-audio-ambience.pw.toml"
-hash = "00d8c56937245eb5c4e71fdffdcd9b53d836afa79fb036b9b98a8a3630715ed5"
+hash = "ac99fc6adf43182a39a735e6125abc840911975f9d67089a5e2405ec2d254bac"
 metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-audio.pw.toml"
-hash = "f099a95f56566b90c54e4c1dcbb509bc6cb33e5a72510dde764490539e5c39de"
+hash = "dc6658314a04abcc9e8592889e05b49387ce607c81d8155be2e22d1fccbe3997"
 metafile = true
 
 [[files]]
 file = "resourcepacks/even-cuter-kitties.pw.toml"
-hash = "71a31e87be1c4ad6e1fe6ae47e038d5d50173fc6ef62097f47d1108b063e5ccd"
+hash = "f0e4885b6d59f03acb4868f475a40077f82516995556a70c5b5422efada065a6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
+hash = "e3e625760944317301f0a812b3c5e43906022126718d48c2820bdac617bea1ca"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "633345333ff363fd71d17faa2bb39be6c3b1041bb1c5fdcc616827d2221c152f"
+hash = "293a3b5ee351cacdbda2586b8dce4c4410ad9ef40ccbb89a2a936d46775b20c3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "ad40fc928a743c0a383a5dfa2a5bd8bc24b416d1adf90d1bc4f0e893046ced62"
+hash = "004ceec960b2b7a9883d117fd8c9f1e5c88069e461b535ae604473cdca1412f1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+hash = "9ec67e88b2aff3720a27dde232274a00e65b7ddc5e302a495d18bc41a42028a4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/hud-reimagined.pw.toml"
-hash = "acb4489f4d3d48a9c9159f8c19f3ce2f876befc4d455ad84279d7c9c1b41bee0"
+hash = "6beb452121b4220762cd88db8cebf2e8071e5b78c853ee1aeb4ca4a60bb7b701"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode-utopia-extension.pw.toml"
-hash = "4fc700919fb259d5167ee73df2837bf708ef5b01023961b04d5f95edfefe8290"
+hash = "24e4d6b9c3b75d354228ab4cb95b76915b01e903994cdc1de0db40a959a52a70"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "d668a2a864228bd651c2a8aced512004f4b4443c92880ab4c1cc131350980f33"
+hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-vanilla-crosshair.pw.toml"
-hash = "1f2688fad3b9cba90680b80fe98a8ef783d1d6fac8d647ca92225f0e7594c758"
+hash = "078f1359dbf23417de5eb3a3d61c81a3ab7a732318df61d5f651ff4934522a83"
 metafile = true
 
 [[files]]
 file = "resourcepacks/music-and-melody-rp.pw.toml"
-hash = "8135271b37fa62c91419b891521048187ffea5ab7249b313c112b0d56782ea4c"
+hash = "e5cb2cb6096e6fff97dc25b09d23eab719cc8b66cafdfc26a0137896eaac60a0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/shield-by-side.pw.toml"
-hash = "342dedb05fd44527c00163ffb8adde02f491349daf445b429831b1e10b8d09ab"
+hash = "d87d8a149daad1712e78d131c32baa5c093f898bddfe83e57831625ebe9f8cef"
 metafile = true
 
 [[files]]
 file = "resourcepacks/shrimps-distinct-potions.pw.toml"
-hash = "7e046731d3dca3435dcd12fc27e0c176b24f4b3d9109a7efd285b8195fca82f1"
+hash = "2a8f81a5a3f1d6119338a65cc422ce5ba92df9693f1162cc67518804f271b99d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "1500696334c198418def3441b2a5764156c1b68d7de1882d345f61d842dc3d25"
+hash = "402c9c112221998e24e16f4186b0f6e2af923ee10dbb00a5ed0fb4fbafa8f05f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
+hash = "5c98064f8e8b4d6bd97cb3230f7b5a620bae73cd0a1d45a4dc28c2864972ac4b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tools-reimagined.pw.toml"
-hash = "b3a1e81b2504383120a03c59fb62e7158d357542766f21f42d011d5eabf6a835"
+hash = "9c46761429ede50f1e211093f86e0a97cec58e607dced3e9dc704af139c6c714"
 metafile = true
 
 [[files]]
 file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod-compatibility.pw.toml"
-hash = "9c5f23dba290832095136d52f56bcf91f6f93e2b107985f6022ce3e50c39c08f"
+hash = "50ddfeb664a94a31137c2c508cad99860f67940c4955898a86c26b2e1ee4b671"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vipers-enchantment-enhancements.pw.toml"
-hash = "d9d799aa7a0471d90f74c7a374e6a30469804535b8ce2e1ace3fd5519569f65d"
+hash = "6aea96d5c26277a5de1ffd9bc82cf48035f637ae3d069ee41d9263e4312122f3"
 metafile = true

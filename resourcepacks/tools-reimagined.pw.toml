@@ -1,6 +1,6 @@
 name = "Tools Reimagined"
 filename = "§bTools§8-§bReimagined§0_§8[v1]§0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dD4ICv7o/versions/gP0GWGwP/%C2%A7bTools%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78%5Bv1%5D%C2%A70.zip"

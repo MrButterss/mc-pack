@@ -1,6 +1,6 @@
 name = "Chests Reimagined"
 filename = "§aChests§8-§aReimagined§0_§8[v1.8.2]§0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

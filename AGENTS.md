@@ -28,8 +28,8 @@ every change as a hypothesis until the pack has booted.
    anything purely visual or audio is `client`.
 3. **Removing a mod:** search `kubejs/`, `config/ftbquests/` and `config/` for its namespace first.
    Dead references break recipes and quests.
-4. **Config files:** `config/` holds client and common configs that ship to players. `defaultconfigs/`
-   is copied into new worlds as server config. A world that already exists keeps its own `serverconfig/`.
+4. **Config files:** `config/` holds client and common configs that ship to players. A file in `defaultconfigs/`
+   is copied into a world's `serverconfig/` only when that file is missing there; an existing file wins.
 5. **Quests are generated.** Edit the generator in `../tools/gen_*.py`, not the `.snbt` by hand, unless
    the user edited them in the FTB in-game editor (then those edits are the source; do not regenerate over them).
 6. **One change, one test.** Several mods added at once make a crash impossible to bisect.
@@ -39,8 +39,9 @@ every change as a hypothesis until the pack has booted.
 1. `python tools/check.py` — syntax of TOML/JSON/SNBT/KubeJS, plus a stale-index check. Seconds.
 2. `node dist/projects/mc-pack/tools/check_deps.js` (run from the vault root) — dependency and version
    ranges, read from the real jars in the Prism instance.
-3. Push → GitHub Actions `ci` boots a headless NeoForge server with the pack. This catches wrong-side mods,
-   server-side crashes and mixin failures. Minutes.
+3. Server boot test — **planned** `tools/boot_test.py`, run on the notebook against the Prism instance jars.
+   It will catch wrong-side mods, server-side crashes and mixin failures. Not on GitHub: about 19 CurseForge
+   files are excluded from the API and cannot be downloaded by a bot or redistributed. GitHub `ci` runs step 1 only.
 4. Notebook test launch per `../workflows/test-launch.md`, then the in-game checklist the change needs.
 
 ## Reading a crash
@@ -49,5 +50,6 @@ Open the newest `crash-reports/*.txt`, or `logs/latest.log` when there is no rep
 in the report. Quote the line in your report; never guess the culprit from the mod list alone.
 
 ## Releases
-Tag `vX.Y.Z` and push the tag. The `release` workflow exports the pack and attaches it to a GitHub Release.
+Tag `vX.Y.Z` and push the tag. The `release` workflow runs `packwiz curseforge export` and attaches the zip
+to a GitHub Release. No `.mrpack`: Modrinth export fails on the CurseForge-excluded files.
 Bump `version` in `pack.toml` first.

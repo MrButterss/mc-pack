@@ -1,6 +1,6 @@
 name = "Drigo 3D Lantern`s x Punchy"
 filename = "Drigo 3D Lantern`s x Punchy.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

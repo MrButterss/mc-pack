@@ -1,6 +1,6 @@
 name = "Enchantment Descriptions Compat"
 filename = "Enchantment Descriptions Compat 1.4.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
