@@ -1,0 +1,109 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "delights"
+	group: ""
+	icon: {
+		count: 1
+		id: "brewinandchewin:keg"
+	}
+	id: "F87C397FDD8203B6"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"1760839D7B575742"
+			]
+			id: "E75AAE2F6AC374E4"
+			rewards: [
+				{
+					id: "06D23AE2B920396C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "E2918F92C6A06D0C"
+					item: {
+						count: 1
+						id: "brewinandchewin:keg"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"E75AAE2F6AC374E4"
+			]
+			id: "BC849BA5FA65C37C"
+			rewards: [
+				{
+					id: "D4C0480E834B640F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "F1A850DE045EF272"
+					item: {
+						count: 1
+						id: "brewinandchewin:beer"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "A55B87582CCA4411"
+			rewards: [
+				{
+					id: "C64F26BA2899B1C4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "A7975E9FCF2FB0DE"
+					item: {
+						count: 1
+						id: "aquaculture:iron_fishing_rod"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"BC849BA5FA65C37C"
+			]
+			id: "D26D904D052CEFB5"
+			rewards: [
+				{
+					id: "A05E8C6CB949EC9C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "78F5D2BDA9443131"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+}

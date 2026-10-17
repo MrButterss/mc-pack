@@ -1,0 +1,111 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "arsenal"
+	group: ""
+	icon: {
+		count: 1
+		id: "shieldexp:iron_shield"
+	}
+	id: "3D815497E86DDD98"
+	images: [ ]
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"4C25D03ECBE93F8E"
+			]
+			id: "0D7A1EAFBBB0C184"
+			rewards: [
+				{
+					id: "FB8B27E35C9FA0E6"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "BF51662B34AAAEE1"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2270AAD1C5A10E6B"
+			]
+			id: "484BD840F5BA2760"
+			rewards: [
+				{
+					id: "ED2C758D99650D84"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "FE9487B3048BEA4E"
+					item: {
+						count: 1
+						id: "shieldexp:iron_shield"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"484BD840F5BA2760"
+			]
+			id: "C8491AE9F8EC71B0"
+			rewards: [
+				{
+					id: "4E9EBB5A556302B0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "4588F6CFF82649BB"
+					item: {
+						count: 1
+						id: "minecraft:iron_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "55AB74A5D21B6504"
+					item: {
+						count: 1
+						id: "minecraft:iron_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "622A818956F3C221"
+					item: {
+						count: 1
+						id: "minecraft:iron_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "1FFAAAED0661AD18"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

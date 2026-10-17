@@ -184,4 +184,275 @@
 		"Load powder charges, then a shot, from the breech end."
 		"More charges shoot farther, but too many burst the barrel."
 	]
+	chapter.3D815497E86DDD98.title: "Arsenal"
+	chapter.3D815497E86DDD98.chapter_subtitle: [
+		"Gear up"
+	]
+	chapter.96E3E651849E4E6D.title: "Exploration"
+	chapter.96E3E651849E4E6D.chapter_subtitle: [
+		"See what's out there"
+	]
+	chapter.B49587F0DF23C57A.title: "Storage & Building"
+	chapter.B49587F0DF23C57A.chapter_subtitle: [
+		"Sort it, then build it"
+	]
+	chapter.E4D562D3A234579E.title: "Seasons & Survival"
+	chapter.E4D562D3A234579E.chapter_subtitle: [
+		"Weather the world"
+	]
+	chapter.F87C397FDD8203B6.title: "Delights & Drinks"
+	chapter.F87C397FDD8203B6.chapter_subtitle: [
+		"Beyond the cooking pot"
+	]
+	chapter.BE1DEB3E14E92128.title: "Create Addons"
+	chapter.BE1DEB3E14E92128.chapter_subtitle: [
+		"Power, steel and style"
+	]
+	chapter.CBAB7D25AFF681F2.title: "Create: Logistics & Trains"
+	chapter.CBAB7D25AFF681F2.chapter_subtitle: [
+		"Move items and people"
+	]
+	chapter.4293304A7ED33867.title: "Welcome"
+	chapter.4293304A7ED33867.chapter_subtitle: [
+		"Settle in before the colony"
+	]
+	quest.0AFFB9CE7BEB0188.title: "Pack Up"
+	quest.0AFFB9CE7BEB0188.quest_subtitle: "More pockets"
+	quest.0AFFB9CE7BEB0188.quest_desc: [
+		"A backpack holds a chest's worth of items and takes upgrades."
+		"Carry On lets you pick up chests and animals with empty hands and shift-right-click."
+	]
+	quest.DCBA76223408E216.title: "Sleep Anywhere"
+	quest.DCBA76223408E216.quest_subtitle: "Skip the night, keep your spawn"
+	quest.DCBA76223408E216.quest_desc: [
+		"A sleeping bag skips the night without moving your spawn point. Any colour works; the red one counts here."
+	]
+	quest.8A3CB1D6E9F176B3.title: "Find Your Way"
+	quest.8A3CB1D6E9F176B3.quest_subtitle: "Point to any biome"
+	quest.8A3CB1D6E9F176B3.quest_desc: [
+		"Nature's Compass searches for the biome you pick."
+	]
+	quest.1FFCFFAF8009D06E.title: "Home Stone"
+	quest.1FFCFFAF8009D06E.quest_subtitle: "Fast travel"
+	quest.1FFCFFAF8009D06E.quest_desc: [
+		"Place a waystone at home, then teleport back from any other waystone."
+	]
+	quest.081014282EB990D3.title: "Into the Colony"
+	quest.081014282EB990D3.quest_subtitle: "Start the MineColonies Questline"
+	quest.081014282EB990D3.quest_desc: [
+		"The MineColonies Questline chapter walks you through your first colony."
+		"Stylecolonies and SmallColonies add more building styles to pick from."
+	]
+	quest.DE72077A69394D5C.title: "Funnels"
+	quest.DE72077A69394D5C.quest_subtitle: "Belts in, belts out"
+	quest.DE72077A69394D5C.quest_desc: [
+		"Funnels pull items off belts and push them into containers."
+	]
+	quest.A881CADD9E3F7F87.title: "Deployer"
+	quest.A881CADD9E3F7F87.quest_subtitle: "A mechanical hand"
+	quest.A881CADD9E3F7F87.quest_desc: [
+		"A deployer uses whatever it holds: places blocks, applies items, even fights."
+	]
+	quest.630ABB7BAC8502FE.title: "Rails"
+	quest.630ABB7BAC8502FE.quest_subtitle: "Lay the line"
+	quest.630ABB7BAC8502FE.quest_desc: [
+		"Create track bends smoothly. Hold track and right-click two points to connect them."
+	]
+	quest.847E80170D54447F.title: "Station"
+	quest.847E80170D54447F.quest_subtitle: "Every train needs a home"
+	quest.847E80170D54447F.quest_desc: [
+		"Stations assemble trains and hold their schedules."
+	]
+	quest.0732465779D6DE2F.title: "Choo Choo"
+	quest.0732465779D6DE2F.quest_subtitle: "Assemble a train"
+	quest.0732465779D6DE2F.quest_desc: [
+		"Build a train on a station and drive it. Create Blocks Bogies and Movable Tracks add more bogie and track options."
+	]
+	quest.85431081E8F0F620.title: "Steam 'n' Rails"
+	quest.85431081E8F0F620.quest_subtitle: "More track styles"
+	quest.85431081E8F0F620.quest_desc: [
+		"Steam 'n' Rails adds track for every wood type, plus narrow and wide gauges."
+	]
+	quest.1290E90FCDE3BD12.title: "Extra Tracks"
+	quest.1290E90FCDE3BD12.quest_subtitle: "Optional"
+	quest.1290E90FCDE3BD12.quest_desc: [
+		"Create: Tracks adds tank-style track drives for contraptions."
+	]
+	quest.22A03F0D3C5B985E.title: "Electric Motor"
+	quest.22A03F0D3C5B985E.quest_subtitle: "Rotation from power"
+	quest.22A03F0D3C5B985E.quest_desc: [
+		"Create Crafts & Additions turns rotation into electricity and back."
+	]
+	quest.29707F91B5FF2B56.title: "Liquid XP"
+	quest.29707F91B5FF2B56.quest_subtitle: "Enchant by machine"
+	quest.29707F91B5FF2B56.quest_desc: [
+		"Create: Enchantment Industry stores experience as a fluid and enchants items with it."
+	]
+	quest.4CECF77DE8F8C4C9.title: "Copycat"
+	quest.4CECF77DE8F8C4C9.quest_subtitle: "Any block, any shape"
+	quest.4CECF77DE8F8C4C9.quest_desc: [
+		"Copycats take the look of any block you put in them."
+	]
+	quest.799856F6F2B7A670.title: "Steel Works"
+	quest.799856F6F2B7A670.quest_subtitle: "Heavy industry"
+	quest.799856F6F2B7A670.quest_desc: [
+		"Create: The Factory Must Grow makes steel in a blast furnace."
+		"Steel Armor Blocks turns steel into decorative armour plating."
+	]
+	quest.C3287DB7DE86F8FB.title: "Tinkerer"
+	quest.C3287DB7DE86F8FB.quest_subtitle: "Optional"
+	quest.C3287DB7DE86F8FB.quest_desc: [
+		"Create Deco adds catwalks, bars and lamps."
+		"Also in the pack: Create Connected, Stuff Additions, Linear Bearing, Ender Transmission, Dragons Plus, Molten Vents, Cobblestone, Central Kitchen, Blazing Hot and Multi-Piston."
+	]
+	quest.DBC0D63522B7B548.title: "Moving Stairs"
+	quest.DBC0D63522B7B548.quest_subtitle: "Optional"
+	quest.DBC0D63522B7B548.quest_desc: [
+		"Create Escalated adds escalators and moving walkways."
+	]
+	quest.E75AAE2F6AC374E4.title: "Keg"
+	quest.E75AAE2F6AC374E4.quest_subtitle: "Brew it slowly"
+	quest.E75AAE2F6AC374E4.quest_desc: [
+		"A keg ferments drinks over time. Keep it at the right temperature."
+	]
+	quest.BC849BA5FA65C37C.title: "First Brew"
+	quest.BC849BA5FA65C37C.quest_subtitle: "Cheers"
+	quest.BC849BA5FA65C37C.quest_desc: [
+		"Beer is the first brew. Drinks give long buffs, but too many make you tipsy."
+	]
+	quest.A55B87582CCA4411.title: "Gone Fishing"
+	quest.A55B87582CCA4411.quest_subtitle: "Better rods, more fish"
+	quest.A55B87582CCA4411.quest_desc: [
+		"Aquaculture adds fish for every biome. Many become Farmer's Delight dishes."
+	]
+	quest.D26D904D052CEFB5.title: "Feast"
+	quest.D26D904D052CEFB5.quest_subtitle: "Cook six different dishes"
+	quest.D26D904D052CEFB5.quest_desc: [
+		"Cultural Delights, Fruits Delight and Cook's Collection add more recipes. Mark this done after six different dishes."
+	]
+	quest.9EA620CD47A273FE.title: "Blood Moon"
+	quest.9EA620CD47A273FE.quest_subtitle: "Survive the night"
+	quest.9EA620CD47A273FE.quest_desc: [
+		"Enhanced Celestials brings blood moons with more mobs. Mark this done after surviving one."
+	]
+	quest.837853F77EBE73C8.title: "Wildlife"
+	quest.837853F77EBE73C8.quest_subtitle: "Deer drop antlers"
+	quest.837853F77EBE73C8.quest_desc: [
+		"Naturalist adds animals to most biomes. Deer drop antlers."
+	]
+	quest.FA03A1FC9FBACE9A.title: "Drawers"
+	quest.FA03A1FC9FBACE9A.quest_subtitle: "One item, many stacks"
+	quest.FA03A1FC9FBACE9A.quest_desc: [
+		"A drawer holds lots of one item and shows it on the front."
+	]
+	quest.DE6A1BA92FF5B365.title: "Controller"
+	quest.DE6A1BA92FF5B365.quest_subtitle: "One face for all drawers"
+	quest.DE6A1BA92FF5B365.quest_desc: [
+		"A controller links touching drawers so you can insert into all of them at once."
+	]
+	quest.25EDBFFA2608B3B5.title: "Terminal"
+	quest.25EDBFFA2608B3B5.quest_subtitle: "Search every chest"
+	quest.25EDBFFA2608B3B5.quest_desc: [
+		"Tom's Simple Storage links chests to one searchable terminal."
+	]
+	quest.C94286A5EE46559D.title: "Architect"
+	quest.C94286A5EE46559D.quest_subtitle: "Mix any two blocks"
+	quest.C94286A5EE46559D.quest_desc: [
+		"The architect's cutter combines blocks into new building pieces."
+	]
+	quest.92D181726CAD0478.title: "Chisel"
+	quest.92D181726CAD0478.quest_subtitle: "Hundreds of variants"
+	quest.92D181726CAD0478.quest_desc: [
+		"Chipped workbenches turn blocks into variants. Chisel Reborn and Rechiseled add more, and Rechiseled: Create connects them to Create."
+	]
+	quest.BFF6FFC023216722.title: "Wand"
+	quest.BFF6FFC023216722.quest_subtitle: "Build faster"
+	quest.BFF6FFC023216722.quest_desc: [
+		"A construction wand extends the face you click."
+	]
+	quest.28DB2C85414DE003.title: "Magnet"
+	quest.28DB2C85414DE003.quest_subtitle: "Pull drops to you"
+	quest.28DB2C85414DE003.quest_desc: [
+		"Right-click to toggle it."
+	]
+	quest.DB442CE9A4731D31.title: "Odds and Ends"
+	quest.DB442CE9A4731D31.quest_subtitle: "Optional"
+	quest.DB442CE9A4731D31.quest_desc: [
+		"Supplementaries and Amendments add jars, signs, ropes and many small blocks."
+	]
+	quest.B9D27ED0D49431C8.title: "Framed"
+	quest.B9D27ED0D49431C8.quest_subtitle: "Optional"
+	quest.B9D27ED0D49431C8.quest_desc: [
+		"Framed blocks copy any texture. Factory Blocks adds industrial decor."
+	]
+	quest.C8620B5452626560.title: "Big Chest"
+	quest.C8620B5452626560.quest_subtitle: "Optional"
+	quest.C8620B5452626560.quest_desc: [
+		"Sophisticated Storage chests take tier and feature upgrades."
+	]
+	quest.273D4F5027255380.title: "A Proper House"
+	quest.273D4F5027255380.quest_subtitle: "Build a home you like"
+	quest.273D4F5027255380.quest_desc: [
+		"Twigs adds small decor like pebbles and tables. Mark this done when the house feels like home."
+	]
+	quest.F380BFCC1D8C6FCD.title: "Explorer's Log"
+	quest.F380BFCC1D8C6FCD.quest_subtitle: "Optional"
+	quest.F380BFCC1D8C6FCD.quest_desc: [
+		"Visit a YUNG's, Dungeons and Taverns, Moog's Voyager, Explorify or Structory structure. Structures are spread out, so this can take a while."
+	]
+	quest.352B7F34D01E3A6B.title: "Loot Run"
+	quest.352B7F34D01E3A6B.quest_subtitle: "Your own loot"
+	quest.352B7F34D01E3A6B.quest_desc: [
+		"Lootr chests give every player their own loot. Mark this done after opening one."
+	]
+	quest.A46FC070D2968DE2.title: "Spelunker"
+	quest.A46FC070D2968DE2.quest_subtitle: "Mine smarter"
+	quest.A46FC070D2968DE2.quest_desc: [
+		"Spelunkery adds a hammer and chisel to split stone and mine ore more cleanly."
+	]
+	quest.A94025531BA28129.title: "Into the Nether"
+	quest.A94025531BA28129.quest_subtitle: "Mark when you arrive"
+	quest.A94025531BA28129.quest_desc: [
+		"Build a portal and step through."
+	]
+	quest.7434A9E30D4E9BB7.title: "Trading Post"
+	quest.7434A9E30D4E9BB7.quest_subtitle: "All villagers in one place"
+	quest.7434A9E30D4E9BB7.quest_desc: [
+		"The trading post shows every nearby villager's trades in one screen."
+	]
+	quest.0D7A1EAFBBB0C184.title: "First Gun"
+	quest.0D7A1EAFBBB0C184.quest_subtitle: "Craft any gun"
+	quest.0D7A1EAFBBB0C184.quest_desc: [
+		"Make a gun at the gun smith table. Mark this done once you have one."
+	]
+	quest.484BD840F5BA2760.title: "Shield Up"
+	quest.484BD840F5BA2760.quest_subtitle: "Block better"
+	quest.484BD840F5BA2760.quest_desc: [
+		"Shield Expansion adds shields that parry and block different amounts."
+	]
+	quest.C8491AE9F8EC71B0.title: "Armoured"
+	quest.C8491AE9F8EC71B0.quest_subtitle: "Full iron set"
+	quest.C8491AE9F8EC71B0.quest_desc: [
+		"Overloaded Armor Bar shows armour points past 20 as coloured rows."
+	]
+	quest.FD62DA978C6E914E.title: "Floaters"
+	quest.FD62DA978C6E914E.quest_subtitle: "Keep it on the water"
+	quest.FD62DA978C6E914E.quest_desc: [
+		"Sable Floaters keep ships and contraptions afloat."
+	]
+	quest.3ED4CB97B0E82DE7.title: "Long Haul"
+	quest.3ED4CB97B0E82DE7.quest_subtitle: "Fly 1000 blocks"
+	quest.3ED4CB97B0E82DE7.quest_desc: [
+		"Fly to a waystone at least 1000 blocks from home. Mark this done when you land."
+	]
+	quest.1A93F565CA4E53D4.title: "Radar Room"
+	quest.1A93F565CA4E53D4.quest_subtitle: "See what's coming"
+	quest.1A93F565CA4E53D4.quest_desc: [
+		"Create Radars tracks ships and mobs on a monitor."
+	]
+	quest.DBBD43FBAA8DD937.title: "Thrust"
+	quest.DBBD43FBAA8DD937.quest_subtitle: "Optional"
+	quest.DBBD43FBAA8DD937.quest_desc: [
+		"Create Propulsion adds thrusters that push contraptions."
+	]
 }

@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		count: 1
+		id: "sophisticatedbackpacks:backpack"
+	}
+	id: "4293304A7ED33867"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0AFFB9CE7BEB0188"
+			rewards: [
+				{
+					id: "88061F4EFC78751E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "4737E04C7B000E85"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "DCBA76223408E216"
+			rewards: [
+				{
+					id: "822740505FF60430"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "FF3FBE52EF436FA6"
+					item: {
+						count: 1
+						id: "comforts:sleeping_bag_red"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "8A3CB1D6E9F176B3"
+			rewards: [
+				{
+					id: "8E5FFA0554095314"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "E894298BD862182C"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0AFFB9CE7BEB0188"
+			]
+			id: "1FFCFFAF8009D06E"
+			rewards: [
+				{
+					id: "D23DE6F86367EABE"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "09C128F46966143B"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0AFFB9CE7BEB0188"
+			]
+			id: "081014282EB990D3"
+			rewards: [
+				{
+					id: "D5C66016ECEAE408"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "C82D72311ABF482B"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+}

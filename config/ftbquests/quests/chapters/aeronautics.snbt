@@ -185,5 +185,101 @@
 			x: 6.0d
 			y: 0.0d
 		}
+		{
+			dependencies: [
+				"C2E6579E44CEC5F3"
+			]
+			id: "FD62DA978C6E914E"
+			rewards: [
+				{
+					id: "E819518AEDC0EE10"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "52C997D877CD9650"
+					item: {
+						count: 1
+						id: "sablefloaters:wooden_floater"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"C2E6579E44CEC5F3"
+			]
+			id: "3ED4CB97B0E82DE7"
+			rewards: [
+				{
+					id: "A0D8BBD6852AAA6C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "C6907289535E2A94"
+					type: "checkmark"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"C2E6579E44CEC5F3"
+			]
+			id: "1A93F565CA4E53D4"
+			rewards: [
+				{
+					id: "57F273B917A7C69D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "1B97C6E980F1230D"
+					item: {
+						count: 1
+						id: "create_radar:monitor"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"C2E6579E44CEC5F3"
+			]
+			id: "DBBD43FBAA8DD937"
+			rewards: [
+				{
+					id: "0E35866253850ED8"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "FA9F7A4337E89ECF"
+					item: {
+						count: 1
+						id: "createpropulsion:thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
 	]
 }

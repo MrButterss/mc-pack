@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_addons"
+	group: ""
+	icon: {
+		count: 1
+		id: "createaddition:electric_motor"
+	}
+	id: "BE1DEB3E14E92128"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"8763169A570B1FA1"
+			]
+			id: "22A03F0D3C5B985E"
+			rewards: [
+				{
+					id: "D110D054F9E1C8CD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "3F417B6D8B6159DD"
+					item: {
+						count: 1
+						id: "createaddition:electric_motor"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"F06973FA09363450"
+			]
+			id: "29707F91B5FF2B56"
+			rewards: [
+				{
+					id: "03FED5F22D9FA678"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "3E58AB1507A04392"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:blaze_enchanter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"8763169A570B1FA1"
+			]
+			id: "4CECF77DE8F8C4C9"
+			rewards: [
+				{
+					id: "1FEA501F6D94CF76"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "B68EDF5A55F0221B"
+					item: {
+						count: 1
+						id: "copycats:copycat_block"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7B889BB783A8AA55"
+			]
+			id: "799856F6F2B7A670"
+			rewards: [
+				{
+					id: "E438CD255FCDBBB1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "F35ACC74DD716CED"
+					item: {
+						count: 1
+						id: "tfmg:steel_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"22A03F0D3C5B985E"
+			]
+			id: "C3287DB7DE86F8FB"
+			rewards: [
+				{
+					id: "1914E0050E82BE02"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "EF33971199BB7021"
+					item: {
+						count: 1
+						id: "createdeco:andesite_catwalk"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2558DCB6CFAE3749"
+			]
+			id: "DBC0D63522B7B548"
+			rewards: [
+				{
+					id: "39A13551FC26461B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "6A5406194FE856A4"
+					item: {
+						count: 1
+						id: "escalated:metal_walkway_steps"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+	]
+}
