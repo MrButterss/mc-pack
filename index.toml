@@ -1291,6 +1291,11 @@ hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
 
 [[files]]
+file = "resourcepacks/hud-reimagined.pw.toml"
+hash = "acb4489f4d3d48a9c9159f8c19f3ce2f876befc4d455ad84279d7c9c1b41bee0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mandalas-gui-dark-mode-utopia-extension.pw.toml"
 hash = "4fc700919fb259d5167ee73df2837bf708ef5b01023961b04d5f95edfefe8290"
 metafile = true
@@ -1328,6 +1333,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tools-reimagined.pw.toml"
+hash = "b3a1e81b2504383120a03c59fb62e7158d357542766f21f42d011d5eabf6a835"
 metafile = true
 
 [[files]]

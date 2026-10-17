@@ -1,0 +1,13 @@
+name = "HUD Reimagined"
+filename = "§bHUD§8-§bReimagined§0_§8[v1]§0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zpa9h4dN/versions/LfToEZ6t/%C2%A7bHUD%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78%5Bv1%5D%C2%A70.zip"
+hash-format = "sha512"
+hash = "9c5d65537eb939bae83c5ea0dfe53408897a348698892cc79bb19563a82ea607e42f047ac6b5f95caa856e89a4f99b2b7456df435209697edb196eaa5b748750"
+
+[update]
+[update.modrinth]
+mod-id = "zpa9h4dN"
+version = "LfToEZ6t"

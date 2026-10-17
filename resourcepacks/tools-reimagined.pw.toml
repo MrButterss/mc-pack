@@ -1,0 +1,13 @@
+name = "Tools Reimagined"
+filename = "§bTools§8-§bReimagined§0_§8[v1]§0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dD4ICv7o/versions/gP0GWGwP/%C2%A7bTools%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78%5Bv1%5D%C2%A70.zip"
+hash-format = "sha512"
+hash = "57e9d5151392ebd4c2b65bd1f28cf6a265e63ecfcb8be80984f1e158d0121dbe66f98da652f64d3feeae20cff17716934e86228fecf7b460ac35ed6d5376caef"
+
+[update]
+[update.modrinth]
+mod-id = "dD4ICv7o"
+version = "gP0GWGwP"
