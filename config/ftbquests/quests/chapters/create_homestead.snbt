@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "gear"
 	filename: "create_homestead"
 	group: ""
 	icon: {
@@ -17,6 +17,7 @@
 				"8763169A570B1FA1"
 			]
 			id: "4F40A43246E31EA0"
+			size: 1.5d
 			rewards: [
 				{
 					id: "B55EBB9E7B639BCF"
@@ -59,7 +60,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -82,7 +83,7 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -107,14 +108,15 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: 2.0d
+			x: 3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
 				"7B889BB783A8AA55"
 			]
 			id: "CB323B825C65617A"
+			size: 2.0d
 			rewards: [
 				{
 					id: "FC0BE62FA583DCA4"
@@ -140,8 +142,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 1.0d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -165,8 +167,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 1.0d
+			x: 9.0d
+			y: 1.5d
 		}
 	]
 }

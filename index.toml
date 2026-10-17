@@ -7,59 +7,95 @@ metafile = true
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "5638b3f471edc80690f5bf4d862e720e90af48e0f044a0f67645679c7a15f34a"
+hash = "14b15d331e314d6b5b5cf941d031882cb5abf298e1370658cda3e3dce7ceccfa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/arsenal.snbt"
-hash = "b15a79b9b9f3ac6397b12eebab64b695d836863175c9896091f327db50b1ef93"
+hash = "debbc2f78a0ec899f30b33006a556f593a2e7fc5b3c3610917901163d2572a64"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_addons.snbt"
-hash = "388ff3df2e26e5b3a84c497a055fcdb76e63e441c3f957f68e0ff777862f3a28"
+hash = "1bd87a4656c27634e08796790d374a8186654428920a30e43b7da943e0a7b643"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_first_spin.snbt"
-hash = "2f729b4e9b562fb481705e18f4bc75d9f074c6d6ff1c8a5e0dcee212d1eae9bf"
+hash = "6c47781f77fa10ae8ed61c88f0c307b70b9c871c9b5a7420b4c94f52caf3485b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_homestead.snbt"
-hash = "f6eeaa44ee4a69500f90f30acce174dc99004e03d4a18b62efd500e4deb7f3aa"
+hash = "5040fb96f04f0f85601d5c7a2c9d7d2710e2153a67358aeee662ef08134a45fa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_logistics.snbt"
-hash = "e7d3d1d82ee6c30a3e875f3555a953c4d569b869abf4e69384fa4ed4b4adf953"
+hash = "fa5301a90ab997b64647e562d98e55570bac626453a860aad0df764f6b263d04"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/defence.snbt"
-hash = "3c52df7e39db8cf09d62cdd265355f39401007fba8137f2a8138ceda2f911398"
+hash = "47095d055623014ca1f711bd02075ecc5e1712b920b8a6de7d3bb75dce83dc60"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/delights.snbt"
-hash = "c0a5c43f17466987536ca83c6be73915ec41cd1d2dfb7563f39ec19ebc7e3836"
+hash = "0c6fdcef65b7bec950a5a37fbed9c576d76c3400371a5d11f790941f324d91b4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "0a9a8496611d5e714404e29ce523e4f10800e9dbf4c3aedf0ba91cab433b6aab"
+hash = "df955a28d1ef99784acd6601fc3acee03da0d79cb114ee54c4ad26cc09bc09b2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/food_chain.snbt"
-hash = "057a9006776176156b3d5dabbe88353331d03f613bea2189a80999e6cdcc9a1a"
+hash = "0606dd9f5a58712253cb8a6a88bdb36f8685659b23ebb64603f779840c714951"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/main_journey.snbt"
+hash = "7a9c84e6b421c91b32866f02ddf64b6140d758d909110b4f7d21e72fb66b8095"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/seasons_survival.snbt"
-hash = "6aad1abce7e3e62e7f289858e9bfa52bfc147916eafc9bc677f73ce462977d29"
+hash = "5081f9afcc82845069a6e00789ee4efb6b3a54b2ab9c90fcb0f0a8908839fda8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage_building.snbt"
-hash = "97dcf7927432caffb1f220031a0e686d2c9f39336123a8d6a5f841d1c4be632d"
+hash = "bfbf6ee54c28404b6cba72515e4d86472b6b211841782685a81145f3c532c383"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "7c2297ed516f201d94bfb937f5d4d2599c033196991f3681ccc21d720360ac54"
+hash = "d8bd52a315539bce8651ffa8c128232c8a6142c4a789b822ae7fd31ec738d4f7"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "45327a8c580803a24c629da9dce2a45005dac07f70a8c60f29da8d7ac9a55a59"
+hash = "4167bc355feb10222f9b1d6c16d7603ee604687144fdbf9e462c52653edb309e"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_colony.snbt"
+hash = "f7edf3126bf7ac5bc72f50dd669967600570842749de9695d4ad3b3414e595c8"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_create.snbt"
+hash = "459558f9d8e6d6a02d0337e49a7822b9cfbd3c96d1a4eeb0c7ef600b8fd3e852"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_frontier.snbt"
+hash = "b314b63da5c699dcdae23a2919adfa4c0f2cbac332acb98484c16fb0804aae19"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_industrial.snbt"
+hash = "1735befcea2d29b82c90aeacdf5db7a5f863176fdcbc7b2c7731bd1c99c2327a"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_settler.snbt"
+hash = "b8c8388bdd7ae1faa6b65dc286d628f354adabe9a3bfe6b244640371dcdf43d2"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_sky.snbt"
+hash = "0f3acf21114ba79c24c6905b5b6a7f4eb8f809f46ba4c691443b5874f7691cda"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/age_stone.snbt"
+hash = "702855d529f3a27161270a7afa95a5cddd72bc592bb0e769e0acbaaac3372852"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/starter_kit.snbt"
+hash = "0a9c44d858d87bb84e15946427826fd5c787ae9824f26de39e6b3d5be435b5e3"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -76,6 +112,42 @@ hash = "1b8a53bc2054e51227f34fa91a92d9763fa5d5bc09904ed6cc1c26808c9db7c2"
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s0.png"
+hash = "1d2c1db17fb39117cf5af9ba5d255790e6e3a819c0f1aaad345977bd19b3b144"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s1.png"
+hash = "0e9fe1ac798d4c049cd673cb81d703325cd11e628fdce893c92b081a411f4ea3"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s2.png"
+hash = "ff5faf2e9428b7078d987130ee641bc2ca0e7f9867dfb5c6ec452e61aee91ace"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s3.png"
+hash = "b3326f0d1d7b1c9089150f933666ba3778d7bc02d9977cbbd9c4a829bfc307ff"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s4.png"
+hash = "a5754559d89128460cf9a3e2d6459cd9e8ffb44e7fee8ec473bd11214a1a2dd3"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s5.png"
+hash = "701ad14466237329c905dc5a3a74534b36e82684e1cc84622d5e37c6e1b39eaa"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_s6.png"
+hash = "04c679c20522dd790bdfab21348234c4946ddaae5eea00623a5b015badb61103"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/main_journey_title.png"
+hash = "b8f7cd2a4ba71053a5727e6608417ae7cbbb956c7feb5535f15b747bd5299dce"
+
+[[files]]
+file = "kubejs/assets/mcpack/textures/quests/welcome_title.png"
+hash = "0d63317c2ba434534f2e3679488b2ff62507444f8a1125a7dd393743d33852ca"
 
 [[files]]
 file = "kubejs/server_scripts/bulk_recipes.js"

@@ -1,0 +1,11 @@
+{
+	id: "693AC522FBE61D90"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ count: 16, item: "minecraft:cooked_beef" }
+		{ count: 16, item: "minecraft:iron_ingot" }
+		{ count: 8, item: "minecraft:leather" }
+	]
+	title: "Settler Crate"
+}

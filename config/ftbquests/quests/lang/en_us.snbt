@@ -3,189 +3,46 @@
 	chapter.CB36476307F24238.chapter_subtitle: [
 		"From andesite to steam power"
 	]
-	quest.92B60F57049E507A.title: "Andesite Alloy"
 	quest.92B60F57049E507A.quest_subtitle: "The start of everything"
-	quest.92B60F57049E507A.quest_desc: [
-		"Craft andesite with iron or zinc nuggets."
-		"Almost every early Create part needs it."
-	]
-	quest.A9B55688999C1409.title: "Free Power"
 	quest.A9B55688999C1409.quest_subtitle: "Rotation is your energy"
-	quest.A9B55688999C1409.quest_desc: [
-		"Put a water wheel in flowing water and run shafts out of it."
-		"Cogwheels change direction and speed."
-	]
-	quest.EDD009689B6F9DCA.title: "Tools of the Trade"
 	quest.EDD009689B6F9DCA.quest_subtitle: "See stress, turn blocks"
-	quest.EDD009689B6F9DCA.quest_desc: [
-		"Goggles show stress and speed when you look at a machine."
-		"A wrench rotates blocks. Shift-click picks them up."
-	]
-	quest.2C9DE266337A38DB.title: "Grinding"
 	quest.2C9DE266337A38DB.quest_subtitle: "Ore doubling begins"
-	quest.2C9DE266337A38DB.quest_desc: [
-		"A millstone grinds ores, gravel and flowers."
-		"Later, crushing wheels do it faster."
-	]
-	quest.32E3EE004F2A3DEE.title: "Pressing Plates"
 	quest.32E3EE004F2A3DEE.quest_subtitle: "Sheets for every machine"
-	quest.32E3EE004F2A3DEE.quest_desc: [
-		"A press flattens ingots into sheets."
-		"Put it over a depot or a belt."
-	]
-	quest.2558DCB6CFAE3749.title: "Belts"
 	quest.2558DCB6CFAE3749.quest_subtitle: "Move things around"
-	quest.2558DCB6CFAE3749.quest_desc: [
-		"Use belts between two shafts to move items."
-		"Funnels and chutes take items on and off."
-	]
-	quest.F06973FA09363450.title: "Mixing"
 	quest.F06973FA09363450.quest_subtitle: "Recipes in a basin"
-	quest.F06973FA09363450.quest_desc: [
-		"Put a mixer over a basin to combine ingredients."
-		"JEI shows every mixing recipe."
-		"A heated mixer also boils purified water. See Create Homestead."
-	]
-	quest.8763169A570B1FA1.title: "Brass"
 	quest.8763169A570B1FA1.quest_subtitle: "Heat makes alloys"
-	quest.8763169A570B1FA1.quest_desc: [
-		"Mix copper and zinc in a heated basin."
-		"Feed a blaze burner under the basin to heat it."
-		"Catch a blaze in an empty blaze burner in the Nether."
-	]
-	quest.7B889BB783A8AA55.title: "Precision Mechanism"
 	quest.7B889BB783A8AA55.quest_subtitle: "Sequenced assembly"
-	quest.7B889BB783A8AA55.quest_desc: [
-		"Built step by step on a belt with deployers and a press."
-		"Check the order in JEI."
-	]
-	quest.11C2D6CEA05396F1.title: "Steam Power"
 	quest.11C2D6CEA05396F1.quest_subtitle: "Big power for a big colony"
-	quest.11C2D6CEA05396F1.quest_desc: [
-		"Put a fluid tank on a heated blaze burner and attach steam engines."
-		"Larger boilers run more engines."
-	]
 	chapter.F2D05415F0CB11E1.title: "Food Chain"
 	chapter.F2D05415F0CB11E1.chapter_subtitle: [
 		"Feed yourself, then your colony"
 	]
-	quest.300AC929A2F58D15.title: "Cutting Board"
 	quest.300AC929A2F58D15.quest_subtitle: "Prep station"
-	quest.300AC929A2F58D15.quest_desc: [
-		"Put food on the board and use a knife on it."
-		"Good for slicing, salvaging and stripping logs."
-	]
-	quest.1760839D7B575742.title: "Cooking Pot"
 	quest.1760839D7B575742.quest_subtitle: "Real meals"
-	quest.1760839D7B575742.quest_desc: [
-		"The pot needs heat under it: a stove, campfire or fire."
-		"Meals give longer and better buffs than raw food."
-	]
-	quest.C32362F7B829EAB1.title: "Rich Soil"
 	quest.C32362F7B829EAB1.quest_subtitle: "Better ground"
-	quest.C32362F7B829EAB1.quest_desc: [
-		"Leave organic compost to turn into rich soil."
-		"Crops on it grow faster."
-	]
-	quest.3FB761741880D0CD.title: "Know the Season"
 	quest.3FB761741880D0CD.quest_subtitle: "Crops care about the calendar"
-	quest.3FB761741880D0CD.quest_desc: [
-		"Most crops only grow in some seasons. Their tooltip shows which."
-		"Store food before winter, or build a greenhouse."
-		"A deployer with quartz turns a calendar into a season sensor."
-	]
-	quest.55B85BCE3F1DF0C3.title: "Colony Farmer"
 	quest.55B85BCE3F1DF0C3.quest_subtitle: "Let citizens farm"
-	quest.55B85BCE3F1DF0C3.quest_desc: [
-		"A farmer works fields you mark with a field block."
-		"Give them seeds that suit the season."
-	]
-	quest.5D16047A92E983E1.title: "Feed the Colony"
 	quest.5D16047A92E983E1.quest_subtitle: "Hungry citizens are slow citizens"
-	quest.5D16047A92E983E1.quest_desc: [
-		"The cook hands out food from the restaurant."
-		"A varied diet keeps citizens happy."
-	]
-	quest.E0965F43CF1EFFE5.title: "Automated Kitchen"
 	quest.E0965F43CF1EFFE5.quest_subtitle: "Create meets Farmer's Delight"
-	quest.E0965F43CF1EFFE5.quest_desc: [
-		"Central Kitchen lets deployers and mechanical arms use cooking pots and cutting boards."
-		"Tick this once a meal comes out of a machine."
-	]
 	chapter.20B805B4C2935D77.title: "Aeronautics"
 	chapter.20B805B4C2935D77.chapter_subtitle: [
 		"Get off the ground"
 	]
-	quest.1AFB9F91F3182447.title: "Physics Assembler"
 	quest.1AFB9F91F3182447.quest_subtitle: "Blocks become a vehicle"
-	quest.1AFB9F91F3182447.quest_desc: [
-		"Turns a structure you build into a moving physics object."
-		"Glue the parts together first."
-	]
-	quest.1ACEB6527AFF72B8.title: "Propellers"
 	quest.1ACEB6527AFF72B8.quest_subtitle: "Thrust"
-	quest.1ACEB6527AFF72B8.quest_desc: [
-		"Put a propeller on a propeller bearing and turn it."
-		"Faster rotation gives more thrust."
-	]
-	quest.76F281CDB407F3C4.title: "Hot Air"
 	quest.76F281CDB407F3C4.quest_subtitle: "Lift by heat"
-	quest.76F281CDB407F3C4.quest_desc: [
-		"Envelopes hold hot air. A burner under them gives lift."
-		"More envelope means more lift."
-	]
-	quest.64F953A0C77139DB.title: "Levitite"
 	quest.64F953A0C77139DB.quest_subtitle: "Lift without fire"
-	quest.64F953A0C77139DB.quest_desc: [
-		"A block that floats by itself."
-		"Expensive, but it lifts a lot in a small space."
-	]
-	quest.8269E868B776366D.title: "Take the Helm"
 	quest.8269E868B776366D.quest_subtitle: "Steering and speed"
-	quest.8269E868B776366D.quest_desc: [
-		"The wheel steers and the throttle controls the propellers."
-		"Put them where you stand."
-	]
-	quest.C2E6579E44CEC5F3.title: "First Flight"
 	quest.C2E6579E44CEC5F3.quest_subtitle: "Up, around, down"
-	quest.C2E6579E44CEC5F3.quest_desc: [
-		"Assemble your airship, fly a lap of the colony and land without breaking it."
-		"Tick this when you're back on the ground."
-	]
 	chapter.2BAF9529782A9039.title: "Defence"
 	chapter.2BAF9529782A9039.chapter_subtitle: [
 		"Keep raiders out"
 	]
-	quest.2270AAD1C5A10E6B.title: "Guard Tower"
 	quest.2270AAD1C5A10E6B.quest_subtitle: "First line"
-	quest.2270AAD1C5A10E6B.quest_desc: [
-		"Guards patrol and fight for the colony."
-		"Give them armour and weapons."
-	]
-	quest.6E653130C34CB1CA.title: "Barracks"
 	quest.6E653130C34CB1CA.quest_subtitle: "A standing army"
-	quest.6E653130C34CB1CA.quest_desc: [
-		"Barracks hold many guards in towers around one hut."
-		"Good for colonies that get raided."
-	]
-	quest.4C25D03ECBE93F8E.title: "Gun Smith"
 	quest.4C25D03ECBE93F8E.quest_subtitle: "Firearms"
-	quest.4C25D03ECBE93F8E.quest_desc: [
-		"Craft guns, ammo and attachments here."
-		"Ammo is costly, so save it for raids."
-	]
-	quest.EF1D8158A006AF1B.title: "Build a Cannon"
 	quest.EF1D8158A006AF1B.quest_subtitle: "Big guns"
-	quest.EF1D8158A006AF1B.quest_desc: [
-		"Build breech, chamber and barrel in a row on a cannon mount."
-		"Melt cast iron in a basin first. JEI shows how."
-	]
-	quest.62787D25AAA71CD1.title: "Ammunition"
 	quest.62787D25AAA71CD1.quest_subtitle: "Load and fire"
-	quest.62787D25AAA71CD1.quest_desc: [
-		"Load powder charges, then a shot, from the breech end."
-		"More charges shoot farther, but too many burst the barrel."
-	]
 	chapter.3D815497E86DDD98.title: "Arsenal"
 	chapter.3D815497E86DDD98.chapter_subtitle: [
 		"Gear up"
@@ -214,286 +71,816 @@
 	chapter.CBAB7D25AFF681F2.chapter_subtitle: [
 		"Move items and people"
 	]
-	chapter.4293304A7ED33867.title: "Welcome"
-	chapter.4293304A7ED33867.chapter_subtitle: [
-		"Settle in before the colony"
-	]
-	quest.0AFFB9CE7BEB0188.title: "Pack Up"
-	quest.0AFFB9CE7BEB0188.quest_subtitle: "More pockets"
-	quest.0AFFB9CE7BEB0188.quest_desc: [
-		"A backpack holds a chest's worth of items and takes upgrades."
-		"Carry On lets you pick up chests and animals with empty hands and shift-right-click."
-	]
-	quest.DCBA76223408E216.title: "Sleep Anywhere"
-	quest.DCBA76223408E216.quest_subtitle: "Skip the night, keep your spawn"
-	quest.DCBA76223408E216.quest_desc: [
-		"A sleeping bag skips the night without moving your spawn point. Any colour works; the red one counts here."
-	]
-	quest.8A3CB1D6E9F176B3.title: "Find Your Way"
-	quest.8A3CB1D6E9F176B3.quest_subtitle: "Point to any biome"
-	quest.8A3CB1D6E9F176B3.quest_desc: [
-		"Nature's Compass searches for the biome you pick."
-	]
-	quest.1FFCFFAF8009D06E.title: "Home Stone"
-	quest.1FFCFFAF8009D06E.quest_subtitle: "Fast travel"
-	quest.1FFCFFAF8009D06E.quest_desc: [
-		"Place a waystone at home, then teleport back from any other waystone."
-	]
-	quest.081014282EB990D3.title: "Into the Colony"
-	quest.081014282EB990D3.quest_subtitle: "Start the MineColonies Questline"
-	quest.081014282EB990D3.quest_desc: [
-		"The MineColonies Questline chapter walks you through your first colony."
-		"Stylecolonies and SmallColonies add more building styles to pick from."
-	]
-	quest.DE72077A69394D5C.title: "Funnels"
 	quest.DE72077A69394D5C.quest_subtitle: "Belts in, belts out"
-	quest.DE72077A69394D5C.quest_desc: [
-		"Funnels pull items off belts and push them into containers."
-	]
-	quest.A881CADD9E3F7F87.title: "Deployer"
 	quest.A881CADD9E3F7F87.quest_subtitle: "A mechanical hand"
-	quest.A881CADD9E3F7F87.quest_desc: [
-		"A deployer uses whatever it holds: places blocks, applies items, even fights."
-	]
-	quest.630ABB7BAC8502FE.title: "Rails"
 	quest.630ABB7BAC8502FE.quest_subtitle: "Lay the line"
-	quest.630ABB7BAC8502FE.quest_desc: [
-		"Create track bends smoothly. Hold track and right-click two points to connect them."
-	]
-	quest.847E80170D54447F.title: "Station"
 	quest.847E80170D54447F.quest_subtitle: "Every train needs a home"
-	quest.847E80170D54447F.quest_desc: [
-		"Stations assemble trains and hold their schedules."
-	]
-	quest.0732465779D6DE2F.title: "Choo Choo"
 	quest.0732465779D6DE2F.quest_subtitle: "Assemble a train"
-	quest.0732465779D6DE2F.quest_desc: [
-		"Build a train on a station and drive it. Create Blocks Bogies and Movable Tracks add more bogie and track options."
-	]
-	quest.85431081E8F0F620.title: "Steam 'n' Rails"
 	quest.85431081E8F0F620.quest_subtitle: "More track styles"
-	quest.85431081E8F0F620.quest_desc: [
-		"Steam 'n' Rails adds track for every wood type, plus narrow and wide gauges."
-	]
-	quest.1290E90FCDE3BD12.title: "Extra Tracks"
 	quest.1290E90FCDE3BD12.quest_subtitle: "Optional"
-	quest.1290E90FCDE3BD12.quest_desc: [
-		"Create: Tracks adds tank-style track drives for contraptions."
-	]
-	quest.22A03F0D3C5B985E.title: "Electric Motor"
 	quest.22A03F0D3C5B985E.quest_subtitle: "Rotation from power"
-	quest.22A03F0D3C5B985E.quest_desc: [
-		"Create Crafts & Additions turns rotation into electricity and back."
-	]
-	quest.29707F91B5FF2B56.title: "Liquid XP"
 	quest.29707F91B5FF2B56.quest_subtitle: "Enchant by machine"
-	quest.29707F91B5FF2B56.quest_desc: [
-		"Create: Enchantment Industry stores experience as a fluid and enchants items with it."
-	]
-	quest.4CECF77DE8F8C4C9.title: "Copycat"
 	quest.4CECF77DE8F8C4C9.quest_subtitle: "Any block, any shape"
-	quest.4CECF77DE8F8C4C9.quest_desc: [
-		"Copycats take the look of any block you put in them."
-	]
-	quest.799856F6F2B7A670.title: "Steel Works"
 	quest.799856F6F2B7A670.quest_subtitle: "Heavy industry"
-	quest.799856F6F2B7A670.quest_desc: [
-		"Create: The Factory Must Grow makes steel in a blast furnace."
-		"Steel Armor Blocks turns steel into decorative armour plating."
-	]
-	quest.C3287DB7DE86F8FB.title: "Tinkerer"
 	quest.C3287DB7DE86F8FB.quest_subtitle: "Optional"
-	quest.C3287DB7DE86F8FB.quest_desc: [
-		"Create Deco adds catwalks, bars and lamps."
-		"Also in the pack: Create Connected, Stuff Additions, Linear Bearing, Ender Transmission, Dragons Plus, Molten Vents, Cobblestone, Central Kitchen, Blazing Hot and Multi-Piston."
-	]
-	quest.DBC0D63522B7B548.title: "Moving Stairs"
 	quest.DBC0D63522B7B548.quest_subtitle: "Optional"
-	quest.DBC0D63522B7B548.quest_desc: [
-		"Create Escalated adds escalators and moving walkways."
-	]
-	quest.E75AAE2F6AC374E4.title: "Keg"
 	quest.E75AAE2F6AC374E4.quest_subtitle: "Brew it slowly"
-	quest.E75AAE2F6AC374E4.quest_desc: [
-		"A keg ferments drinks over time. Keep it at the right temperature."
-	]
-	quest.BC849BA5FA65C37C.title: "First Brew"
 	quest.BC849BA5FA65C37C.quest_subtitle: "Cheers"
-	quest.BC849BA5FA65C37C.quest_desc: [
-		"Beer is the first brew. Drinks give long buffs, but too many make you tipsy."
-	]
-	quest.A55B87582CCA4411.title: "Gone Fishing"
 	quest.A55B87582CCA4411.quest_subtitle: "Better rods, more fish"
-	quest.A55B87582CCA4411.quest_desc: [
-		"Aquaculture adds fish for every biome. Many become Farmer's Delight dishes."
-	]
-	quest.D26D904D052CEFB5.title: "Feast"
 	quest.D26D904D052CEFB5.quest_subtitle: "Cook six different dishes"
-	quest.D26D904D052CEFB5.quest_desc: [
-		"Cultural Delights, Fruits Delight and Cook's Collection add more recipes. Mark this done after six different dishes."
-	]
-	quest.9EA620CD47A273FE.title: "Blood Moon"
 	quest.9EA620CD47A273FE.quest_subtitle: "Survive the night"
-	quest.9EA620CD47A273FE.quest_desc: [
-		"Enhanced Celestials brings blood moons with more mobs. Mark this done after surviving one."
-	]
-	quest.837853F77EBE73C8.title: "Wildlife"
 	quest.837853F77EBE73C8.quest_subtitle: "Deer drop antlers"
-	quest.837853F77EBE73C8.quest_desc: [
-		"Naturalist adds animals to most biomes. Deer drop antlers."
-	]
-	quest.FA03A1FC9FBACE9A.title: "Drawers"
 	quest.FA03A1FC9FBACE9A.quest_subtitle: "One item, many stacks"
-	quest.FA03A1FC9FBACE9A.quest_desc: [
-		"A drawer holds lots of one item and shows it on the front."
-	]
-	quest.DE6A1BA92FF5B365.title: "Controller"
 	quest.DE6A1BA92FF5B365.quest_subtitle: "One face for all drawers"
-	quest.DE6A1BA92FF5B365.quest_desc: [
-		"A controller links touching drawers so you can insert into all of them at once."
-	]
-	quest.25EDBFFA2608B3B5.title: "Terminal"
 	quest.25EDBFFA2608B3B5.quest_subtitle: "Search every chest"
-	quest.25EDBFFA2608B3B5.quest_desc: [
-		"Tom's Simple Storage links chests to one searchable terminal."
-	]
-	quest.C94286A5EE46559D.title: "Architect"
 	quest.C94286A5EE46559D.quest_subtitle: "Mix any two blocks"
-	quest.C94286A5EE46559D.quest_desc: [
-		"The architect's cutter combines blocks into new building pieces."
-	]
-	quest.92D181726CAD0478.title: "Chisel"
 	quest.92D181726CAD0478.quest_subtitle: "Hundreds of variants"
-	quest.92D181726CAD0478.quest_desc: [
-		"Chipped workbenches turn blocks into variants. Chisel Reborn and Rechiseled add more, and Rechiseled: Create connects them to Create."
-	]
-	quest.BFF6FFC023216722.title: "Wand"
 	quest.BFF6FFC023216722.quest_subtitle: "Build faster"
-	quest.BFF6FFC023216722.quest_desc: [
-		"A construction wand extends the face you click."
-	]
-	quest.28DB2C85414DE003.title: "Magnet"
 	quest.28DB2C85414DE003.quest_subtitle: "Pull drops to you"
-	quest.28DB2C85414DE003.quest_desc: [
-		"Right-click to toggle it."
-	]
-	quest.DB442CE9A4731D31.title: "Odds and Ends"
 	quest.DB442CE9A4731D31.quest_subtitle: "Optional"
-	quest.DB442CE9A4731D31.quest_desc: [
-		"Supplementaries and Amendments add jars, signs, ropes and many small blocks."
-	]
-	quest.B9D27ED0D49431C8.title: "Framed"
 	quest.B9D27ED0D49431C8.quest_subtitle: "Optional"
-	quest.B9D27ED0D49431C8.quest_desc: [
-		"Framed blocks copy any texture. Factory Blocks adds industrial decor."
-	]
-	quest.C8620B5452626560.title: "Big Chest"
 	quest.C8620B5452626560.quest_subtitle: "Optional"
-	quest.C8620B5452626560.quest_desc: [
-		"Sophisticated Storage chests take tier and feature upgrades."
-	]
-	quest.273D4F5027255380.title: "A Proper House"
 	quest.273D4F5027255380.quest_subtitle: "Build a home you like"
-	quest.273D4F5027255380.quest_desc: [
-		"Twigs adds small decor like pebbles and tables. Mark this done when the house feels like home."
-	]
-	quest.F380BFCC1D8C6FCD.title: "Explorer's Log"
 	quest.F380BFCC1D8C6FCD.quest_subtitle: "Optional"
-	quest.F380BFCC1D8C6FCD.quest_desc: [
-		"Visit a YUNG's, Dungeons and Taverns, Moog's Voyager, Explorify or Structory structure. Structures are spread out, so this can take a while."
-	]
-	quest.352B7F34D01E3A6B.title: "Loot Run"
 	quest.352B7F34D01E3A6B.quest_subtitle: "Your own loot"
-	quest.352B7F34D01E3A6B.quest_desc: [
-		"Lootr chests give every player their own loot. Mark this done after opening one."
-	]
-	quest.A46FC070D2968DE2.title: "Spelunker"
 	quest.A46FC070D2968DE2.quest_subtitle: "Mine smarter"
-	quest.A46FC070D2968DE2.quest_desc: [
-		"Spelunkery adds a hammer and chisel to split stone and mine ore more cleanly."
-	]
-	quest.A94025531BA28129.title: "Into the Nether"
 	quest.A94025531BA28129.quest_subtitle: "Mark when you arrive"
-	quest.A94025531BA28129.quest_desc: [
-		"Build a portal and step through."
-	]
-	quest.7434A9E30D4E9BB7.title: "Trading Post"
 	quest.7434A9E30D4E9BB7.quest_subtitle: "All villagers in one place"
-	quest.7434A9E30D4E9BB7.quest_desc: [
-		"The trading post shows every nearby villager's trades in one screen."
-	]
-	quest.0D7A1EAFBBB0C184.title: "First Gun"
 	quest.0D7A1EAFBBB0C184.quest_subtitle: "Craft any gun"
-	quest.0D7A1EAFBBB0C184.quest_desc: [
-		"Make a gun at the gun smith table. Mark this done once you have one."
-	]
-	quest.484BD840F5BA2760.title: "Shield Up"
 	quest.484BD840F5BA2760.quest_subtitle: "Block better"
-	quest.484BD840F5BA2760.quest_desc: [
-		"Shield Expansion adds shields that parry and block different amounts."
-	]
-	quest.C8491AE9F8EC71B0.title: "Armoured"
 	quest.C8491AE9F8EC71B0.quest_subtitle: "Full iron set"
-	quest.C8491AE9F8EC71B0.quest_desc: [
-		"Overloaded Armor Bar shows armour points past 20 as coloured rows."
-	]
-	quest.FD62DA978C6E914E.title: "Floaters"
 	quest.FD62DA978C6E914E.quest_subtitle: "Keep it on the water"
-	quest.FD62DA978C6E914E.quest_desc: [
-		"Sable Floaters keep ships and contraptions afloat."
-	]
-	quest.3ED4CB97B0E82DE7.title: "Long Haul"
 	quest.3ED4CB97B0E82DE7.quest_subtitle: "Fly 1000 blocks"
-	quest.3ED4CB97B0E82DE7.quest_desc: [
-		"Fly to a waystone at least 1000 blocks from home. Mark this done when you land."
-	]
-	quest.1A93F565CA4E53D4.title: "Radar Room"
 	quest.1A93F565CA4E53D4.quest_subtitle: "See what's coming"
-	quest.1A93F565CA4E53D4.quest_desc: [
-		"Create Radars tracks ships and mobs on a monitor."
-	]
-	quest.DBBD43FBAA8DD937.title: "Thrust"
 	quest.DBBD43FBAA8DD937.quest_subtitle: "Optional"
-	quest.DBBD43FBAA8DD937.quest_desc: [
-		"Create Propulsion adds thrusters that push contraptions."
-	]
 	chapter.2423BA4DFF1F35C5.title: "Create Homestead"
 	chapter.2423BA4DFF1F35C5.chapter_subtitle: [
 		"Create machines for water, seasons and the colony"
 	]
-	quest.4F40A43246E31EA0.title: "Clean Water"
 	quest.4F40A43246E31EA0.quest_subtitle: "Boil it in bulk"
-	quest.4F40A43246E31EA0.quest_desc: [
-		"A heated mixer turns a glass bottle and 250 mB of water into purified water."
-		"The water purifier still works if you have no blaze burner yet."
-	]
-	quest.23ACC8CB18EF82CD.title: "Juice Bar"
 	quest.23ACC8CB18EF82CD.quest_subtitle: "Sugar, fruit, purified water"
-	quest.23ACC8CB18EF82CD.quest_desc: [
-		"An unheated mixer makes any Tough As Nails juice."
-		"Put one kind of fruit per basin, or you may get the wrong juice."
-	]
-	quest.B930AF8C03071C5B.title: "Canteen"
 	quest.B930AF8C03071C5B.quest_subtitle: "Carry your water"
-	quest.B930AF8C03071C5B.quest_desc: [
-		"Fill it at a purifier or with purified water to drink on the road."
-	]
-	quest.A1914C5AF7A3E695.title: "Weather Station"
 	quest.A1914C5AF7A3E695.quest_subtitle: "Deploy quartz onto a calendar"
-	quest.A1914C5AF7A3E695.quest_desc: [
-		"A deployer holding quartz turns a calendar into a season sensor."
-		"It outputs redstone by season: automate your greenhouse."
-	]
-	quest.CB323B825C65617A.title: "Colony Logistics"
 	quest.CB323B825C65617A.quest_subtitle: "Wire the warehouse into Create"
-	quest.CB323B825C65617A.quest_desc: [
-		"A deployer holding a gold scepter turns a chest into a warehouse hut, or a smoker into a kitchen hut."
-		"The warehouse stock link lets Create's logistics read and order from the colony warehouse."
-		"The Smart Colony Clipboard turns colony requests into Create orders."
-	]
-	quest.88B4FD158ACA9768.title: "Schematic Workbench"
 	quest.88B4FD158ACA9768.quest_subtitle: "Optional"
+	quest.92B60F57049E507A.title: "&6Andesite Alloy"
+	quest.92B60F57049E507A.quest_desc: [
+		"Every Create journey starts with &6Andesite Alloy&r."
+		""
+		"Craft andesite with &6iron&r or &6zinc nuggets&r. Almost every early Create part needs it, so make a stack."
+		""
+		"&7Tip: later, a mixer makes alloy in bulk."
+	]
+	quest.A9B55688999C1409.title: "&6Free Power"
+	quest.A9B55688999C1409.quest_desc: [
+		"Create runs on &drotation&r. The cheapest source is a &6Water Wheel&r in flowing water."
+		""
+		"Run &6Shafts&r out of it to carry the rotation to your machines."
+		""
+		"&6Cogwheels&r change direction and speed. Big to small spins faster."
+	]
+	quest.EDD009689B6F9DCA.title: "&6Tools of the Trade"
+	quest.EDD009689B6F9DCA.quest_desc: [
+		"&6Engineer's Goggles&r show &dstress&r and &dspeed&r when you look at a machine. Wear them all the time."
+		""
+		"A &6Wrench&r rotates blocks. Shift-click picks them up instantly."
+	]
+	quest.2C9DE266337A38DB.title: "&6Grinding"
+	quest.2C9DE266337A38DB.quest_desc: [
+		"A &6Millstone&r grinds ores, gravel and flowers into useful bits."
+		""
+		"Crushed ore gives bonus nuggets, so stop smelting raw ore."
+		""
+		"&7Later, crushing wheels do the same job much faster."
+	]
+	quest.32E3EE004F2A3DEE.title: "&6Pressing Plates"
+	quest.32E3EE004F2A3DEE.quest_desc: [
+		"A &6Mechanical Press&r flattens ingots into &6sheets&r."
+		""
+		"Put it over a depot or a belt and feed it ingots. Sheets go into almost every mid-game part."
+	]
+	quest.2558DCB6CFAE3749.title: "&6Belts"
+	quest.2558DCB6CFAE3749.quest_desc: [
+		"Use &6Belts&r between two shafts to move items and power at the same time."
+		""
+		"Machines can work on items as they ride past."
+		""
+		"&7Funnels and chutes take items on and off the belt."
+	]
+	quest.F06973FA09363450.title: "&6Mixing"
+	quest.F06973FA09363450.quest_desc: [
+		"Put a &6Mechanical Mixer&r over a &6Basin&r to combine ingredients."
+		""
+		"Dough, alloys, juices, paints: JEI shows every mixing recipe."
+		""
+		"&7Heat the basin with a burner for the hot recipes, like purified water. See Create Homestead."
+	]
+	quest.8763169A570B1FA1.title: "&6Brass"
+	quest.8763169A570B1FA1.quest_desc: [
+		"&6Brass&r unlocks the smart half of Create."
+		""
+		"Mix copper and zinc in a &cheated&r basin. A &6Blaze Burner&r under the basin gives the heat."
+		""
+		"&7To get one: take an empty blaze burner to the Nether and catch a blaze in it."
+	]
+	quest.7B889BB783A8AA55.title: "&6Precision Mechanism"
+	quest.7B889BB783A8AA55.quest_desc: [
+		"The &6Precision Mechanism&r is Create's first real crafting chain."
+		""
+		"It is built step by step on a belt with &6deployers&r and a &6press&r. Check the order in JEI."
+		""
+		"&7Automate it once. You will need a lot of them."
+	]
+	quest.11C2D6CEA05396F1.title: "&6Steam Power"
+	quest.11C2D6CEA05396F1.quest_desc: [
+		"Big power for a big colony."
+		""
+		"Put a &6Fluid Tank&r on a heated blaze burner, pipe water in, and attach &6Steam Engines&r."
+		""
+		"Larger boilers with more heat run more engines. Watch the stress on your goggles."
+	]
+	quest.4F40A43246E31EA0.title: "&bClean Water"
+	quest.4F40A43246E31EA0.quest_desc: [
+		"Dirty water makes you sick. Let Create boil it for you."
+		""
+		"A &bheated mixer&r turns a glass bottle and 250 mB of water into &bPurified Water&r."
+		""
+		"&7No blaze burner yet? The water purifier block still works."
+	]
+	quest.23ACC8CB18EF82CD.title: "&bJuice Bar"
+	quest.23ACC8CB18EF82CD.quest_desc: [
+		"An &bunheated mixer&r makes any Tough As Nails &bjuice&r: sugar, fruit and purified water."
+		""
+		"Juice quenches far better than water."
+		""
+		"&7Put one kind of fruit per basin, or you may get the wrong juice."
+	]
+	quest.B930AF8C03071C5B.title: "&bCanteen"
+	quest.B930AF8C03071C5B.quest_desc: [
+		"A &bCanteen&r carries several drinks of water on the road."
+		""
+		"Fill it at a purifier or with purified water before a long trip."
+	]
+	quest.A1914C5AF7A3E695.title: "&bWeather Station"
+	quest.A1914C5AF7A3E695.quest_desc: [
+		"A &bdeployer&r holding quartz turns a calendar into a &bSeason Sensor&r."
+		""
+		"It outputs redstone by &2season&r. Use it to switch greenhouse lights or farms on and off."
+	]
+	quest.CB323B825C65617A.title: "&bColony Logistics"
+	quest.CB323B825C65617A.quest_desc: [
+		"Now make Create and MineColonies talk to each other."
+		""
+		"A &bdeployer&r holding a gold scepter turns a chest into a &bWarehouse&r hut, or a smoker into a kitchen hut."
+		""
+		"The &bWarehouse Stock Link&r lets Create logistics read and order from the colony warehouse."
+		""
+		"&7The Smart Colony Clipboard turns colony requests into Create orders."
+	]
+	quest.88B4FD158ACA9768.title: "&bSchematic Workbench"
 	quest.88B4FD158ACA9768.quest_desc: [
-		"Build colony schematics with Create parts."
+		"&7Optional.&r The &bSchematic Table&r builds colony schematics with Create parts."
+	]
+	quest.DE72077A69394D5C.title: "&eFunnels"
+	quest.DE72077A69394D5C.quest_desc: [
+		"&eFunnels&r pull items off belts and push them into containers, and back out again."
+		""
+		"&7Brass funnels take a filter, so only the item you want goes through."
+	]
+	quest.A881CADD9E3F7F87.title: "&eDeployer"
+	quest.A881CADD9E3F7F87.quest_desc: [
+		"A &eDeployer&r is a mechanical hand. It uses whatever it holds."
+		""
+		"It places blocks, applies items to things on a belt, and even fights."
+		""
+		"&7Many Create recipes need one. Check JEI."
+	]
+	quest.630ABB7BAC8502FE.title: "&eRails"
+	quest.630ABB7BAC8502FE.quest_desc: [
+		"Create &eTrack&r bends smoothly, curves and climbs hills."
+		""
+		"Hold track and right-click two points to connect them. The game shows if the curve is too tight."
+	]
+	quest.847E80170D54447F.title: "&eStation"
+	quest.847E80170D54447F.quest_desc: [
+		"Every train needs a home. A &eTrain Station&r assembles trains and holds their schedules."
+		""
+		"Place it beside the track, then build your train on the track next to it."
+	]
+	quest.0732465779D6DE2F.title: "&eChoo Choo!"
+	quest.0732465779D6DE2F.quest_desc: [
+		"Build a train on a station: &ebogeys&r, a controls block and some casing."
+		""
+		"Assemble it at the station and drive it away. Then give it a schedule and let it run on its own."
+		""
+		"&7Create Blocks Bogies and Movable Tracks add more bogey and track options."
+	]
+	quest.85431081E8F0F620.title: "&eSteam 'n' Rails"
+	quest.85431081E8F0F620.quest_desc: [
+		"&eSteam 'n' Rails&r adds track for every wood type, plus narrow and wide gauges."
+		""
+		"&7Make your railway match your colony."
+	]
+	quest.1290E90FCDE3BD12.title: "&eExtra Tracks"
+	quest.1290E90FCDE3BD12.quest_desc: [
+		"&7Optional.&r &eCreate: Tracks&r adds tank-style track drives for contraptions."
+	]
+	quest.22A03F0D3C5B985E.title: "&dElectric Motor"
+	quest.22A03F0D3C5B985E.quest_desc: [
+		"&dCrafts & Additions&r turns rotation into electricity and back."
+		""
+		"An &dElectric Motor&r gives rotation anywhere you can run a wire. No water wheel needed."
+	]
+	quest.29707F91B5FF2B56.title: "&dLiquid XP"
+	quest.29707F91B5FF2B56.quest_desc: [
+		"&dEnchantment Industry&r stores experience as a fluid."
+		""
+		"The &dBlaze Enchanter&r uses it to enchant items by machine. Never lose XP to death again."
+	]
+	quest.4CECF77DE8F8C4C9.title: "&dCopycat"
+	quest.4CECF77DE8F8C4C9.quest_desc: [
+		"A &dCopycat&r block takes the look of any block you put in it."
+		""
+		"Slabs, steps and panels in any texture. Builders love these."
+	]
+	quest.799856F6F2B7A670.title: "&dSteel Works"
+	quest.799856F6F2B7A670.quest_desc: [
+		"Heavy industry. &dThe Factory Must Grow&r makes &7steel&r in a blast furnace."
+		""
+		"Steel feeds engines, pumps and big machines."
+		""
+		"&7Steel Armor Blocks turns steel into decorative armour plating."
+	]
+	quest.C3287DB7DE86F8FB.title: "&dTinkerer"
+	quest.C3287DB7DE86F8FB.quest_desc: [
+		"&7Optional.&r &dCreate Deco&r adds catwalks, bars and lamps for your factory."
+		""
+		"&7Also in the pack: Create Connected, Stuff Additions, Linear Bearing, Ender Transmission, Dragons Plus, Molten Vents, Cobblestone, Central Kitchen, Blazing Hot and Multi-Piston."
+	]
+	quest.DBC0D63522B7B548.title: "&dMoving Stairs"
+	quest.DBC0D63522B7B548.quest_desc: [
+		"&7Optional.&r &dCreate Escalated&r adds escalators and moving walkways."
+	]
+	quest.1AFB9F91F3182447.title: "&bPhysics Assembler"
+	quest.1AFB9F91F3182447.quest_desc: [
+		"Time to leave the ground. The &bPhysics Assembler&r turns a structure you build into a moving physics object."
+		""
+		"&7Glue the parts together first, or they stay behind."
+	]
+	quest.1ACEB6527AFF72B8.title: "&bPropellers"
+	quest.1ACEB6527AFF72B8.quest_desc: [
+		"Put a &bPropeller&r on a &bPropeller Bearing&r and turn it."
+		""
+		"Faster rotation gives more thrust."
+	]
+	quest.76F281CDB407F3C4.title: "&bHot Air"
+	quest.76F281CDB407F3C4.quest_desc: [
+		"&bEnvelopes&r hold hot air. An adjustable &bBurner&r under them gives lift."
+		""
+		"More envelope means more lift. Turn the burner down to sink."
+	]
+	quest.64F953A0C77139DB.title: "&bLevitite"
+	quest.64F953A0C77139DB.quest_desc: [
+		"&bLevitite&r floats by itself."
+		""
+		"Expensive, but it lifts a lot in a small space."
+	]
+	quest.8269E868B776366D.title: "&bTake the Helm"
+	quest.8269E868B776366D.quest_desc: [
+		"The &bSteering Wheel&r steers and the &bThrottle Lever&r controls the propellers."
+		""
+		"Put them where you stand."
+	]
+	quest.C2E6579E44CEC5F3.title: "&bFirst Flight"
+	quest.C2E6579E44CEC5F3.quest_desc: [
+		"The big one. Assemble your airship, fly a lap of the colony and land without breaking it."
+		""
+		"&7Tick this when you're safely back on the ground."
+	]
+	quest.FD62DA978C6E914E.title: "&bFloaters"
+	quest.FD62DA978C6E914E.quest_desc: [
+		"&bSable Floaters&r keep ships and contraptions afloat on water."
+	]
+	quest.3ED4CB97B0E82DE7.title: "&bLong Haul"
+	quest.3ED4CB97B0E82DE7.quest_desc: [
+		"Fly to a waystone at least &b1000 blocks&r from home."
+		""
+		"&7Mark this done when you land."
+	]
+	quest.1A93F565CA4E53D4.title: "&bRadar Room"
+	quest.1A93F565CA4E53D4.quest_desc: [
+		"&bCreate Radars&r tracks ships and mobs on a &bMonitor&r."
+		""
+		"See what's coming before it reaches the colony."
+	]
+	quest.DBBD43FBAA8DD937.title: "&bThrust"
+	quest.DBBD43FBAA8DD937.quest_desc: [
+		"&7Optional.&r &bCreate Propulsion&r adds thrusters that push contraptions."
+	]
+	quest.300AC929A2F58D15.title: "&aCutting Board"
+	quest.300AC929A2F58D15.quest_desc: [
+		"Farmer's Delight starts here. Put food on the &aCutting Board&r and use a knife on it."
+		""
+		"It slices food, salvages items and strips logs, with bonus drops."
+	]
+	quest.1760839D7B575742.title: "&aCooking Pot"
+	quest.1760839D7B575742.quest_desc: [
+		"The &aCooking Pot&r needs heat under it: a &aStove&r, campfire or fire."
+		""
+		"Meals give longer and better buffs than raw food. Cook, don't just eat."
+	]
+	quest.C32362F7B829EAB1.title: "&aRich Soil"
+	quest.C32362F7B829EAB1.quest_desc: [
+		"Leave organic compost to turn into &aRich Soil&r."
+		""
+		"Crops on it grow faster, and mushrooms grow into colonies."
+	]
+	quest.3FB761741880D0CD.title: "&aKnow the Season"
+	quest.3FB761741880D0CD.quest_desc: [
+		"Most crops only grow in some &2seasons&r. Their tooltip shows which."
+		""
+		"A &aCalendar&r tells you the season and how long it lasts."
+		""
+		"Store food before winter, or build a greenhouse."
+		""
+		"&7A deployer with quartz turns a calendar into a season sensor."
+	]
+	quest.55B85BCE3F1DF0C3.title: "&aColony Farmer"
+	quest.55B85BCE3F1DF0C3.quest_desc: [
+		"Let the colony farm for you. A &aFarmer&r works fields you mark with a field block."
+		""
+		"Give them seeds that suit the season."
+	]
+	quest.5D16047A92E983E1.title: "&aFeed the Colony"
+	quest.5D16047A92E983E1.quest_desc: [
+		"The &aCook&r hands out food from the restaurant."
+		""
+		"A varied diet keeps citizens happy, and happy citizens work harder."
+	]
+	quest.E0965F43CF1EFFE5.title: "&aAutomated Kitchen"
+	quest.E0965F43CF1EFFE5.quest_desc: [
+		"&aCentral Kitchen&r lets deployers and mechanical arms use cooking pots and cutting boards."
+		""
+		"Build a kitchen that cooks on its own."
+		""
+		"&7Tick this once a meal comes out of a machine."
+	]
+	quest.E75AAE2F6AC374E4.title: "&aKeg"
+	quest.E75AAE2F6AC374E4.quest_desc: [
+		"A &aKeg&r ferments drinks over time."
+		""
+		"Keep it at the right temperature, or the brew spoils."
+	]
+	quest.BC849BA5FA65C37C.title: "&aFirst Brew"
+	quest.BC849BA5FA65C37C.quest_desc: [
+		"&aBeer&r is the first brew. Cheers!"
+		""
+		"Drinks give long buffs, but too many make you tipsy."
+	]
+	quest.A55B87582CCA4411.title: "&aGone Fishing"
+	quest.A55B87582CCA4411.quest_desc: [
+		"&aAquaculture&r adds better rods and fish for every biome."
+		""
+		"Many of them become Farmer's Delight dishes."
+	]
+	quest.D26D904D052CEFB5.title: "&aFeast"
+	quest.D26D904D052CEFB5.quest_desc: [
+		"Cook &asix different dishes&r."
+		""
+		"Cultural Delights, Fruits Delight and Cook's Collection add plenty of recipes to try."
+		""
+		"&7Mark this done after the sixth."
+	]
+	quest.9EA620CD47A273FE.title: "&2Blood Moon"
+	quest.9EA620CD47A273FE.quest_desc: [
+		"Sometimes the moon turns &cred&r. &2Enhanced Celestials&r brings blood moons with many more mobs."
+		""
+		"Light up the colony and get your guards ready."
+		""
+		"&7Mark this done after surviving one."
+	]
+	quest.837853F77EBE73C8.title: "&2Wildlife"
+	quest.837853F77EBE73C8.quest_desc: [
+		"&2Naturalist&r adds animals to most biomes."
+		""
+		"Deer drop &2antlers&r. Bring one back."
+	]
+	quest.FA03A1FC9FBACE9A.title: "&eDrawers"
+	quest.FA03A1FC9FBACE9A.quest_desc: [
+		"A &eDrawer&r holds lots of one item and shows it on the front."
+		""
+		"Perfect for the cobblestone, dirt and logs that pile up."
+	]
+	quest.DE6A1BA92FF5B365.title: "&eController"
+	quest.DE6A1BA92FF5B365.quest_desc: [
+		"A &eDrawer Controller&r links touching drawers."
+		""
+		"Insert into one face and items sort themselves into every drawer."
+	]
+	quest.25EDBFFA2608B3B5.title: "&eTerminal"
+	quest.25EDBFFA2608B3B5.quest_desc: [
+		"&eTom's Simple Storage&r links chests to one searchable &eTerminal&r."
+		""
+		"Type to find any item in your base."
+	]
+	quest.C94286A5EE46559D.title: "&eArchitect"
+	quest.C94286A5EE46559D.quest_desc: [
+		"The &eArchitect's Cutter&r combines two blocks into new building pieces."
+		""
+		"Timber frames, shingles, paper walls: this is how colonies get their look."
+	]
+	quest.92D181726CAD0478.title: "&eChisel"
+	quest.92D181726CAD0478.quest_desc: [
+		"&eChipped&r workbenches turn blocks into hundreds of variants."
+		""
+		"&7Chisel Reborn and Rechiseled add more, and Rechiseled: Create connects them to Create."
+	]
+	quest.BFF6FFC023216722.title: "&eWand"
+	quest.BFF6FFC023216722.quest_desc: [
+		"A &eConstruction Wand&r extends the face you click."
+		""
+		"Walls and floors in seconds."
+	]
+	quest.28DB2C85414DE003.title: "&eMagnet"
+	quest.28DB2C85414DE003.quest_desc: [
+		"A &eMagnet&r pulls nearby drops to you."
+		""
+		"&7Right-click to toggle it."
+	]
+	quest.DB442CE9A4731D31.title: "&eOdds and Ends"
+	quest.DB442CE9A4731D31.quest_desc: [
+		"&7Optional.&r &eSupplementaries&r and &eAmendments&r add jars, signs, ropes and many small blocks."
+	]
+	quest.B9D27ED0D49431C8.title: "&eFramed"
+	quest.B9D27ED0D49431C8.quest_desc: [
+		"&7Optional.&r &eFramed Blocks&r copy any texture. Factory Blocks adds industrial decor."
+	]
+	quest.C8620B5452626560.title: "&eBig Chest"
+	quest.C8620B5452626560.quest_desc: [
+		"&7Optional.&r &eSophisticated Storage&r chests take tier and feature upgrades."
+	]
+	quest.273D4F5027255380.title: "&eA Proper House"
+	quest.273D4F5027255380.quest_desc: [
+		"Build a home you actually like."
+		""
+		"&eTwigs&r adds small decor like pebbles and tables."
+		""
+		"&7Mark this done when the house feels like home."
+	]
+	quest.F380BFCC1D8C6FCD.title: "&3Explorer's Log"
+	quest.F380BFCC1D8C6FCD.quest_desc: [
+		"&7Optional.&r Visit a &3YUNG's&r, &3Dungeons and Taverns&r, &3Moog's Voyager&r, &3Explorify&r or &3Structory&r structure."
+		""
+		"&7Structures are spread out, so this can take a while."
+	]
+	quest.352B7F34D01E3A6B.title: "&3Loot Run"
+	quest.352B7F34D01E3A6B.quest_desc: [
+		"&3Lootr&r chests give every player their own loot."
+		""
+		"&7Mark this done after opening one."
+	]
+	quest.A46FC070D2968DE2.title: "&3Spelunker"
+	quest.A46FC070D2968DE2.quest_desc: [
+		"&3Spelunkery&r changes mining. Its &3Hammer and Chisel&r split stone and mine ore more cleanly."
+		""
+		"&7Watch for ore veins: they are bigger than they look."
+	]
+	quest.A94025531BA28129.title: "&3Into the Nether"
+	quest.A94025531BA28129.quest_desc: [
+		"Build a portal and step through."
+		""
+		"&7You need a blaze for brass, so this trip comes sooner or later. Bring fire resistance."
+	]
+	quest.7434A9E30D4E9BB7.title: "&3Trading Post"
+	quest.7434A9E30D4E9BB7.quest_desc: [
+		"The &3Trading Post&r shows every nearby villager's trades in one screen."
+		""
+		"No more walking from stall to stall."
+	]
+	quest.2270AAD1C5A10E6B.title: "&cGuard Tower"
+	quest.2270AAD1C5A10E6B.quest_desc: [
+		"Guards patrol and fight for the colony. Build a &cGuard Tower&r first."
+		""
+		"Give them armour and weapons. They use what you give them."
+	]
+	quest.6E653130C34CB1CA.title: "&cBarracks"
+	quest.6E653130C34CB1CA.quest_desc: [
+		"&cBarracks&r hold many guards in towers around one hut."
+		""
+		"&7Good for colonies that get raided."
+	]
+	quest.4C25D03ECBE93F8E.title: "&cGun Smith"
+	quest.4C25D03ECBE93F8E.quest_desc: [
+		"Craft guns, ammo and attachments at the &cGun Smith Table&r."
+		""
+		"&7Ammo is costly, so save it for raids."
+	]
+	quest.EF1D8158A006AF1B.title: "&cBuild a Cannon"
+	quest.EF1D8158A006AF1B.quest_desc: [
+		"Build &cbreech&r, &cchamber&r and &cbarrel&r in a row on a &cCannon Mount&r."
+		""
+		"&7Melt cast iron in a basin first. JEI shows how."
+	]
+	quest.62787D25AAA71CD1.title: "&cAmmunition"
+	quest.62787D25AAA71CD1.quest_desc: [
+		"Load &cpowder charges&r, then a &cshot&r, from the breech end."
+		""
+		"More charges shoot farther, but too many &cburst the barrel&r."
+	]
+	quest.0D7A1EAFBBB0C184.title: "&cFirst Gun"
+	quest.0D7A1EAFBBB0C184.quest_desc: [
+		"Make a gun at the &cGun Smith Table&r."
+		""
+		"&7Mark this done once you have one."
+	]
+	quest.484BD840F5BA2760.title: "&cShield Up"
+	quest.484BD840F5BA2760.quest_desc: [
+		"&cShield Expansion&r adds shields that parry and block different amounts."
+		""
+		"Time a block right to parry."
+	]
+	quest.C8491AE9F8EC71B0.title: "&cArmoured"
+	quest.C8491AE9F8EC71B0.quest_desc: [
+		"Wear a full set of &ciron armour&r."
+		""
+		"&7Overloaded Armor Bar shows armour points past 20 as coloured rows."
+	]
+	chapter.4293304A7ED33867.title: "&6Welcome"
+	chapter.4293304A7ED33867.chapter_subtitle: [
+		"Start here"
+	]
+	quest.EB0E026E63A04E59.title: "&6Welcome to Create Colonies!"
+	quest.EB0E026E63A04E59.quest_subtitle: "Read me first"
+	quest.EB0E026E63A04E59.quest_desc: [
+		"Welcome to &6Create Colonies&r!"
+		""
+		"This pack is about building a &6Create&r-powered &acolony&r: machines that feed, defend and supply a town full of citizens."
+		""
+		"The &6Main Journey&r chapter is your road. It goes age by age, from your first pickaxe to your first airship. The other chapters go deeper into each mod."
+		""
+		"&7Quests check your inventory on their own. Some ask you to tick a box when you're done."
+		""
+		"&7Claim this quest to pick a starter kit."
+	]
+	quest.7E3AB7278FEC22F3.title: "&6Recipes"
+	quest.7E3AB7278FEC22F3.quest_subtitle: "JEI"
+	quest.7E3AB7278FEC22F3.quest_desc: [
+		"Hover an item and press &6R&r to see how to make it, or &6U&r to see what it's used in."
+		""
+		"In a Create pack, JEI is your best friend. Every machine recipe is in there."
+	]
+	quest.2A0C81DBAEB19E84.title: "&6Your Map"
+	quest.2A0C81DBAEB19E84.quest_subtitle: "Xaero's"
+	quest.2A0C81DBAEB19E84.quest_desc: [
+		"The minimap sits in the corner. Press &6M&r for the world map."
+		""
+		"Press &6B&r to drop a waypoint. Mark your base before you wander off."
+	]
+	quest.E4A1B12D3732D115.title: "&6Seasons & Thirst"
+	quest.E4A1B12D3732D115.quest_subtitle: "The world fights back"
+	quest.E4A1B12D3732D115.quest_desc: [
+		"&6Serene Seasons&r: most crops only grow in some seasons, and winter is long. Store food."
+		""
+		"&6Tough As Nails&r: watch your &bthirst&r and &ctemperature&r. Drink purified water and dress for the weather."
+	]
+	quest.4E22B37F84F751A5.title: "&6Where Next?"
+	quest.4E22B37F84F751A5.quest_subtitle: "Open the Main Journey"
+	quest.4E22B37F84F751A5.quest_desc: [
+		"Your road starts in the &6Main Journey&r chapter, at the &6Stone Age&r."
+		""
+		"&7Side chapters unlock as you go. Explore them whenever you like."
+	]
+	chapter.7C51E6EE9F0D280E.title: "&6Main Journey"
+	chapter.7C51E6EE9F0D280E.chapter_subtitle: [
+		"From first pick to first flight"
+	]
+	quest.2684C7C28EA8BFEC.title: "&6Our First Pick"
+	quest.2684C7C28EA8BFEC.quest_subtitle: "Every journey starts somewhere"
+	quest.2684C7C28EA8BFEC.quest_desc: [
+		"Punch a tree, make a &6crafting table&r, then a &6wooden pickaxe&r."
+		""
+		"Every age on this map ends with a gate quest. Finish it and the next age opens."
+		""
+		"&7Big quests give a crate: pick one reward."
+	]
+	quest.B52441F8B764FD54.title: "&6Stone Tools"
+	quest.B52441F8B764FD54.quest_subtitle: "Better than wood"
+	quest.B52441F8B764FD54.quest_desc: [
+		"Cobblestone tools mine faster and last longer."
+		""
+		"&7Make a stone axe and sword too."
+	]
+	quest.F5A20AD847F0DEDE.title: "&6A Roof Overhead"
+	quest.F5A20AD847F0DEDE.quest_subtitle: "Survive the first night"
+	quest.F5A20AD847F0DEDE.quest_desc: [
+		"Build a small shelter before dark. Four walls, a roof, a door and a light."
+		""
+		"&7Tick this once you're safe inside."
+	]
+	quest.F89A7064438EC341.title: "&6First Meal"
+	quest.F89A7064438EC341.quest_subtitle: "Slice, don't just eat"
+	quest.F89A7064438EC341.quest_desc: [
+		"A &6Cutting Board&r turns raw food into better ingredients."
+		""
+		"&7See the Food Chain chapter for more."
+	]
+	quest.7EC829B04769906A.title: "&6Iron Age"
+	quest.7EC829B04769906A.quest_subtitle: "Gate: the Settler Age"
+	quest.7EC829B04769906A.quest_desc: [
+		"Smelt your first &6iron ingot&r. Iron opens almost everything in this pack."
+		""
+		"&7This is the gate. Claim it to unlock the Settler Age."
+	]
+	quest.21B7A223C6F9775C.title: "&6Settler Age"
+	quest.21B7A223C6F9775C.quest_subtitle: "Pockets, paths and water"
+	quest.21B7A223C6F9775C.quest_desc: [
+		"Time to settle in. A &6Backpack&r holds a chest's worth of items and takes upgrades."
+		""
+		"&7Carry On lets you pick up chests and animals: empty hands, shift-right-click."
+	]
+	quest.650A4FD39B6F8176.title: "&6Sleep Anywhere"
+	quest.650A4FD39B6F8176.quest_subtitle: "Skip the night, keep your spawn"
+	quest.650A4FD39B6F8176.quest_desc: [
+		"A &6Sleeping Bag&r skips the night without moving your spawn point."
+	]
+	quest.9B2CB31CC46FE913.title: "&6Find Your Way"
+	quest.9B2CB31CC46FE913.quest_subtitle: "Point to any biome"
+	quest.9B2CB31CC46FE913.quest_desc: [
+		"&6Nature's Compass&r points you to any biome you pick."
+	]
+	quest.D54AE4E6F3A16FBF.title: "&6Home Stone"
+	quest.D54AE4E6F3A16FBF.quest_subtitle: "Fast travel"
+	quest.D54AE4E6F3A16FBF.quest_desc: [
+		"Place a &6Waystone&r at home. Any other waystone can bring you back."
+	]
+	quest.CDDE87F09D2366EA.title: "&6Canteen"
+	quest.CDDE87F09D2366EA.quest_subtitle: "Carry your water"
+	quest.CDDE87F09D2366EA.quest_desc: [
+		"Dirty water makes you sick. Fill a &6Canteen&r with purified water before long trips."
+	]
+	quest.2F0CFA950BDE8977.title: "&6Know the Season"
+	quest.2F0CFA950BDE8977.quest_subtitle: "Gate: the Create Age"
+	quest.2F0CFA950BDE8977.quest_desc: [
+		"Crops only grow in some seasons. A &6Calendar&r shows the season and how long it lasts."
+		""
+		"&7Gate. Claim it to unlock the Create Age."
+	]
+	quest.57C374DDCA1E41C2.title: "&6Create Age"
+	quest.57C374DDCA1E41C2.quest_subtitle: "Rotation is power"
+	quest.57C374DDCA1E41C2.quest_desc: [
+		"Welcome to &6Create&r. Everything here runs on &drotation&r."
+		""
+		"Craft &6Andesite Alloy&r from andesite and iron or zinc nuggets. Almost every early part needs it."
+		""
+		"&7The Create: First Spin chapter goes step by step."
+	]
+	quest.70A79CA1F305789E.title: "&6Free Power"
+	quest.70A79CA1F305789E.quest_subtitle: "Your first rotation"
+	quest.70A79CA1F305789E.quest_desc: [
+		"A &6Water Wheel&r in flowing water spins forever. Run shafts out of it."
+	]
+	quest.32575F1515FABA45.title: "&6Goggles"
+	quest.32575F1515FABA45.quest_subtitle: "See the stress"
+	quest.32575F1515FABA45.quest_desc: [
+		"&6Engineer's Goggles&r show stress and speed. Wear them all the time."
+	]
+	quest.44FE90B6627F80DF.title: "&6Pressing Plates"
+	quest.44FE90B6627F80DF.quest_subtitle: "Ingots into sheets"
+	quest.44FE90B6627F80DF.quest_desc: [
+		"A &6Mechanical Press&r flattens ingots into sheets."
+	]
+	quest.6B13DD382296CB1E.title: "&6Into the Nether"
+	quest.6B13DD382296CB1E.quest_subtitle: "Catch a blaze"
+	quest.6B13DD382296CB1E.quest_desc: [
+		"Brass needs heat, and heat needs a &6blaze&r. Build a portal and step through."
+		""
+		"&7Bring an empty blaze burner to catch one. Tick this when you're back."
+	]
+	quest.68D5E35DA3BFAA0F.title: "&6Brass"
+	quest.68D5E35DA3BFAA0F.quest_subtitle: "Gate: the Colony Age"
+	quest.68D5E35DA3BFAA0F.quest_desc: [
+		"Mix copper and zinc in a basin heated by a &6Blaze Burner&r."
+		""
+		"&7Gate. Claim it to unlock the Colony Age."
+	]
+	quest.806DF8E79CA3CCEE.title: "&6Colony Age"
+	quest.806DF8E79CA3CCEE.quest_subtitle: "Found your town"
+	quest.806DF8E79CA3CCEE.quest_desc: [
+		"Place a &6Town Hall&r and your colony is born. Citizens arrive and look for work."
+		""
+		"&7The MineColonies Questline chapter walks you through every hut."
+	]
+	quest.99E520A2A580F7B1.title: "&6Builder"
+	quest.99E520A2A580F7B1.quest_subtitle: "The first hire"
+	quest.99E520A2A580F7B1.quest_desc: [
+		"The &6Builder&r builds and upgrades every other hut. Keep them stocked."
+	]
+	quest.9ADB0002E823FD31.title: "&6Farmer"
+	quest.9ADB0002E823FD31.quest_subtitle: "Fields that work themselves"
+	quest.9ADB0002E823FD31.quest_desc: [
+		"A &6Farmer&r works fields you mark. Give them seeds that suit the season."
+	]
+	quest.54C1E206C01B82D6.title: "&6Cook"
+	quest.54C1E206C01B82D6.quest_subtitle: "Feed the colony"
+	quest.54C1E206C01B82D6.quest_desc: [
+		"The &6Cook&r feeds your citizens. A varied diet keeps them happy."
+	]
+	quest.E9BF0677203709A9.title: "&6Guard Tower"
+	quest.E9BF0677203709A9.quest_subtitle: "Gate: the Industrial Age"
+	quest.E9BF0677203709A9.quest_desc: [
+		"Raids will come. A &6Guard Tower&r keeps the colony safe."
+		""
+		"&7Gate. Claim it to unlock the Industrial Age."
+	]
+	quest.3F7579BECEC24AFB.title: "&6Industrial Age"
+	quest.3F7579BECEC24AFB.quest_subtitle: "Machines that make machines"
+	quest.3F7579BECEC24AFB.quest_desc: [
+		"The &6Precision Mechanism&r is built step by step on a belt. Automate it: you'll need a lot."
+		""
+		"&7Check the order in JEI."
+	]
+	quest.5704FC0B87BD89D5.title: "&6Warehouse"
+	quest.5704FC0B87BD89D5.quest_subtitle: "The colony's storeroom"
+	quest.5704FC0B87BD89D5.quest_desc: [
+		"The &6Warehouse&r holds everything your couriers carry."
+	]
+	quest.D22F890C6600E71C.title: "&6Colony Logistics"
+	quest.D22F890C6600E71C.quest_subtitle: "Create meets MineColonies"
+	quest.D22F890C6600E71C.quest_desc: [
+		"The &6Warehouse Stock Link&r lets Create logistics read and order from the colony."
+		""
+		"&7See the Create Homestead chapter."
+	]
+	quest.BCA4D7250C48D972.title: "&6First Train"
+	quest.BCA4D7250C48D972.quest_subtitle: "Rails between towns"
+	quest.BCA4D7250C48D972.quest_desc: [
+		"A &6Train Station&r assembles trains and holds their schedules."
+		""
+		"&7See Create: Logistics & Trains."
+	]
+	quest.4F73729F48D2BE1F.title: "&6Steam Power"
+	quest.4F73729F48D2BE1F.quest_subtitle: "Gate: the Sky Age"
+	quest.4F73729F48D2BE1F.quest_desc: [
+		"Put a fluid tank on a heated blaze burner and attach &6Steam Engines&r. Big power for a big colony."
+		""
+		"&7Gate. Claim it to unlock the Sky Age."
+	]
+	quest.22A11BCB1D17178A.title: "&6Sky Age"
+	quest.22A11BCB1D17178A.quest_subtitle: "Leave the ground"
+	quest.22A11BCB1D17178A.quest_desc: [
+		"The &6Physics Assembler&r turns a structure you build into a moving physics object."
+		""
+		"&7Glue it first. The Aeronautics chapter has every part."
+	]
+	quest.1086A805837BFA9E.title: "&6Propellers"
+	quest.1086A805837BFA9E.quest_subtitle: "Thrust"
+	quest.1086A805837BFA9E.quest_desc: [
+		"A propeller on a &6Propeller Bearing&r. Faster rotation, more thrust."
+	]
+	quest.4FA0E13EC032D740.title: "&6Hot Air"
+	quest.4FA0E13EC032D740.quest_subtitle: "Lift"
+	quest.4FA0E13EC032D740.quest_desc: [
+		"&6Envelopes&r hold hot air. A burner under them gives lift."
+	]
+	quest.5DB3F83CD3D5E018.title: "&6Take the Helm"
+	quest.5DB3F83CD3D5E018.quest_subtitle: "Steering"
+	quest.5DB3F83CD3D5E018.quest_desc: [
+		"The &6Steering Wheel&r steers. Put it where you stand."
+	]
+	quest.10EC0C88C4136F92.title: "&6First Flight"
+	quest.10EC0C88C4136F92.quest_subtitle: "Gate: the Frontier Age"
+	quest.10EC0C88C4136F92.quest_desc: [
+		"Fly a lap of the colony and land without breaking anything."
+		""
+		"&7Gate. Tick this when you're back on the ground."
+	]
+	quest.CE2F44630651E414.title: "&6Frontier Age"
+	quest.CE2F44630651E414.quest_subtitle: "Steel and fire"
+	quest.CE2F44630651E414.quest_desc: [
+		"Heavy industry. &6The Factory Must Grow&r makes &7steel&r in a blast furnace."
+		""
+		"&7See the Create Addons chapter."
+	]
+	quest.DD15BC9EBBC496EE.title: "&6Big Guns"
+	quest.DD15BC9EBBC496EE.quest_subtitle: "Defend from afar"
+	quest.DD15BC9EBBC496EE.quest_desc: [
+		"Build a cannon on a &6Cannon Mount&r. The Defence chapter covers ammo."
+	]
+	quest.69B1F701C7904676.title: "&6Blood Moon"
+	quest.69B1F701C7904676.quest_subtitle: "Survive the night"
+	quest.69B1F701C7904676.quest_desc: [
+		"When the moon turns &cred&r, mobs flood in. Survive one with the colony intact."
+	]
+	quest.C3629CC233D8625A.title: "&6Long Haul"
+	quest.C3629CC233D8625A.quest_subtitle: "Fly 1000 blocks"
+	quest.C3629CC233D8625A.quest_desc: [
+		"Fly to a waystone at least 1000 blocks from home."
+	]
+	quest.C6D6987ED246359A.title: "&6Create Colonies"
+	quest.C6D6987ED246359A.quest_subtitle: "The journey's end"
+	quest.C6D6987ED246359A.quest_desc: [
+		"You built a town that feeds, defends and supplies itself, and flies."
+		""
+		"&7Thanks for playing. The side chapters still have plenty to do."
 	]
 }

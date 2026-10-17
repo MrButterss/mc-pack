@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "exploration"
 	group: ""
 	icon: {
@@ -46,10 +46,11 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			id: "A46FC070D2968DE2"
+			size: 1.5d
 			rewards: [
 				{
 					id: "B6DC13CAC3406F47"
@@ -68,13 +69,14 @@
 				}
 			]
 			x: 0.0d
-			y: 4.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
 				"A46FC070D2968DE2"
 			]
 			id: "A94025531BA28129"
+			size: 2.0d
 			rewards: [
 				{
 					id: "3BA1CF4F170ADEDC"
@@ -88,7 +90,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -111,7 +113,7 @@
 				}
 			]
 			x: 0.0d
-			y: 6.0d
+			y: 9.0d
 		}
 	]
 }

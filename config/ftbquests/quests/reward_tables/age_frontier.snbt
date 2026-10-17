@@ -1,0 +1,11 @@
+{
+	id: "5501E487E41A4BB0"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ count: 8, item: "minecraft:diamond" }
+		{ count: 2, item: "minecraft:netherite_scrap" }
+		{ count: 4, item: "create:precision_mechanism" }
+	]
+	title: "Frontier Crate"
+}

@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "rsquare"
 	filename: "food_chain"
 	group: ""
 	icon: {
@@ -39,6 +39,7 @@
 				"300AC929A2F58D15"
 			]
 			id: "1760839D7B575742"
+			size: 1.5d
 			rewards: [
 				{
 					id: "EB33F86C8A8218D0"
@@ -64,8 +65,8 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: -1.0d
+			x: 3.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -90,8 +91,8 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: 1.0d
+			x: 3.0d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -115,8 +116,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 2.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -140,8 +141,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 1.0d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: [
@@ -166,7 +167,7 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
+			x: 9.0d
 			y: 0.0d
 		}
 		{
@@ -175,6 +176,7 @@
 				"2558DCB6CFAE3749"
 			]
 			id: "E0965F43CF1EFFE5"
+			size: 2.0d
 			rewards: [
 				{
 					id: "B470D76A3A0273F6"
@@ -188,7 +190,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 8.0d
+			x: 12.0d
 			y: 0.0d
 		}
 	]

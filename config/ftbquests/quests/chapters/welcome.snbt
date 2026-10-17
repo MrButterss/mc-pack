@@ -1,128 +1,154 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "circle"
 	filename: "welcome"
 	group: ""
 	icon: {
-		count: 1
-		id: "sophisticatedbackpacks:backpack"
+		id: "minecraft:oak_sapling"
 	}
 	id: "4293304A7ED33867"
-	images: [ ]
+	images: [
+		{
+			height: 1.1d
+			id: "0AAFF87890AB6E07"
+			image: "mcpack:textures/quests/welcome_title.png"
+			rotation: 0.0d
+			width: 9.68d
+			x: 0d
+			y: -5.5d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
-			id: "0AFFB9CE7BEB0188"
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "EB0E026E63A04E59"
 			rewards: [
 				{
-					id: "88061F4EFC78751E"
+					exclude_from_claim_all: true
+					id: "68E5A9BA593B3AF5"
+					table_id: 6735944281965212232L
+					type: "choice"
+				}
+				{
+					id: "9E879FFA85D8B245"
 					type: "xp"
 					xp: 10
 				}
 			]
+			shape: "gear"
+			size: 3.0d
 			tasks: [
 				{
-					id: "4737E04C7B000E85"
-					item: {
-						count: 1
-						id: "sophisticatedbackpacks:backpack"
-					}
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			id: "DCBA76223408E216"
-			rewards: [
-				{
-					id: "822740505FF60430"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [
-				{
-					id: "FF3FBE52EF436FA6"
-					item: {
-						count: 1
-						id: "comforts:sleeping_bag_red"
-					}
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 2.0d
-		}
-		{
-			id: "8A3CB1D6E9F176B3"
-			rewards: [
-				{
-					id: "8E5FFA0554095314"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [
-				{
-					id: "E894298BD862182C"
-					item: {
-						count: 1
-						id: "naturescompass:naturescompass"
-					}
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 4.0d
-		}
-		{
-			dependencies: [
-				"0AFFB9CE7BEB0188"
-			]
-			id: "1FFCFFAF8009D06E"
-			rewards: [
-				{
-					id: "D23DE6F86367EABE"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [
-				{
-					id: "09C128F46966143B"
-					item: {
-						count: 1
-						id: "waystones:waystone"
-					}
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: 0.0d
-		}
-		{
-			dependencies: [
-				"0AFFB9CE7BEB0188"
-			]
-			id: "081014282EB990D3"
-			rewards: [
-				{
-					id: "D5C66016ECEAE408"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [
-				{
-					id: "C82D72311ABF482B"
+					id: "C479C886B296AC9B"
 					type: "checkmark"
 				}
 			]
-			x: 2.0d
-			y: 2.0d
+			x: 0d
+			y: 0d
+		}
+		{
+			dependencies: [
+				"EB0E026E63A04E59"
+			]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "7E3AB7278FEC22F3"
+			rewards: [
+				{
+					id: "6A7997C942529078"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 1.25d
+			tasks: [
+				{
+					id: "C06EED9AFEAF0A93"
+					type: "checkmark"
+				}
+			]
+			x: -4.23d
+			y: -1.54d
+		}
+		{
+			dependencies: [
+				"EB0E026E63A04E59"
+			]
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "2A0C81DBAEB19E84"
+			rewards: [
+				{
+					id: "0E0E4F1E10522889"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 1.25d
+			tasks: [
+				{
+					id: "60A61A4DDD65148F"
+					type: "checkmark"
+				}
+			]
+			x: -2.69d
+			y: 3.61d
+		}
+		{
+			dependencies: [
+				"EB0E026E63A04E59"
+			]
+			icon: {
+				id: "sereneseasons:calendar"
+			}
+			id: "E4A1B12D3732D115"
+			rewards: [
+				{
+					id: "932EF99653E1E795"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 1.25d
+			tasks: [
+				{
+					id: "AFA3E026C1782773"
+					type: "checkmark"
+				}
+			]
+			x: 2.69d
+			y: 3.61d
+		}
+		{
+			dependencies: [
+				"EB0E026E63A04E59"
+			]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "4E22B37F84F751A5"
+			rewards: [
+				{
+					id: "647F850C39CDC921"
+					type: "xp"
+					xp: 5
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "C987A0C96E716651"
+					type: "checkmark"
+				}
+			]
+			x: 4.23d
+			y: -1.54d
 		}
 	]
 }

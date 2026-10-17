@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "gear"
 	filename: "create_first_spin"
 	group: ""
 	icon: {
@@ -14,6 +14,7 @@
 	quests: [
 		{
 			id: "92B60F57049E507A"
+			size: 1.5d
 			rewards: [
 				{
 					id: "203BC0F5E074C670"
@@ -66,7 +67,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -100,7 +101,7 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -124,8 +125,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: -2.0d
+			x: 6.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -149,7 +150,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -175,8 +176,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 2.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -208,7 +209,7 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
+			x: 9.0d
 			y: 0.0d
 		}
 		{
@@ -216,6 +217,7 @@
 				"F06973FA09363450"
 			]
 			id: "8763169A570B1FA1"
+			size: 1.5d
 			rewards: [
 				{
 					id: "D262730A41420780"
@@ -242,7 +244,7 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
+			x: 12.0d
 			y: 0.0d
 		}
 		{
@@ -267,14 +269,15 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.0d
+			x: 15.0d
+			y: -1.5d
 		}
 		{
 			dependencies: [
 				"8763169A570B1FA1"
 			]
 			id: "11C2D6CEA05396F1"
+			size: 2.0d
 			rewards: [
 				{
 					id: "D63F5CB99E0F560B"
@@ -301,8 +304,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 1.0d
+			x: 15.0d
+			y: 1.5d
 		}
 	]
 }

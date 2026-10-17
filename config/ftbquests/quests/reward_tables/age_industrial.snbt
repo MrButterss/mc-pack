@@ -1,0 +1,11 @@
+{
+	id: "DB545291006552BA"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ count: 16, item: "create:brass_ingot" }
+		{ count: 4, item: "minecraft:iron_block" }
+		{ count: 16, item: "create:belt_connector" }
+	]
+	title: "Industrial Crate"
+}

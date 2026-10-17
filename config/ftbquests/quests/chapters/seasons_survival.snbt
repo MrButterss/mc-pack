@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "circle"
 	filename: "seasons_survival"
 	group: ""
 	icon: {
@@ -14,6 +14,7 @@
 	quests: [
 		{
 			id: "9EA620CD47A273FE"
+			size: 1.5d
 			rewards: [
 				{
 					id: "EF0E35FD0F6785BE"
@@ -50,7 +51,7 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 	]
 }

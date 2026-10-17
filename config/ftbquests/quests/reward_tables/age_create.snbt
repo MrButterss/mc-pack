@@ -1,0 +1,11 @@
+{
+	id: "6F8D478B8D05C2D5"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ count: 32, item: "create:andesite_alloy" }
+		{ count: 32, item: "create:shaft" }
+		{ count: 16, item: "create:cogwheel" }
+	]
+	title: "Create Crate"
+}

@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "square"
 	filename: "storage_building"
 	group: ""
 	icon: {
@@ -14,6 +14,7 @@
 	quests: [
 		{
 			id: "FA03A1FC9FBACE9A"
+			size: 1.5d
 			rewards: [
 				{
 					id: "253236AF4BE65C8F"
@@ -56,7 +57,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -79,10 +80,11 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			id: "C94286A5EE46559D"
+			size: 1.5d
 			rewards: [
 				{
 					id: "570D059A593E11DE"
@@ -101,7 +103,7 @@
 				}
 			]
 			x: 0.0d
-			y: 4.0d
+			y: 6.0d
 		}
 		{
 			id: "92D181726CAD0478"
@@ -123,7 +125,7 @@
 				}
 			]
 			x: 0.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			id: "BFF6FFC023216722"
@@ -145,7 +147,7 @@
 				}
 			]
 			x: 0.0d
-			y: 8.0d
+			y: 12.0d
 		}
 		{
 			id: "28DB2C85414DE003"
@@ -167,7 +169,7 @@
 				}
 			]
 			x: 0.0d
-			y: 10.0d
+			y: 15.0d
 		}
 		{
 			id: "DB442CE9A4731D31"
@@ -189,7 +191,7 @@
 				}
 			]
 			x: 0.0d
-			y: 12.0d
+			y: 18.0d
 		}
 		{
 			id: "B9D27ED0D49431C8"
@@ -211,7 +213,7 @@
 				}
 			]
 			x: 0.0d
-			y: 14.0d
+			y: 21.0d
 		}
 		{
 			id: "C8620B5452626560"
@@ -233,13 +235,14 @@
 				}
 			]
 			x: 0.0d
-			y: 16.0d
+			y: 24.0d
 		}
 		{
 			dependencies: [
 				"C94286A5EE46559D"
 			]
 			id: "273D4F5027255380"
+			size: 2.0d
 			rewards: [
 				{
 					id: "35119CCDEFF441AB"
@@ -253,8 +256,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 2.0d
-			y: 2.0d
+			x: 3.0d
+			y: 3.0d
 		}
 	]
 }

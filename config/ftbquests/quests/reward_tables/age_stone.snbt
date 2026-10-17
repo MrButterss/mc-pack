@@ -1,0 +1,11 @@
+{
+	id: "F4932234247398E0"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 16, item: "minecraft:bread" }
+		{ count: 32, item: "minecraft:torch" }
+		{ count: 8, item: "minecraft:iron_ingot" }
+	]
+	title: "Stone Age Crate"
+}

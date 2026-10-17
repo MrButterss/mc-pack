@@ -1,0 +1,11 @@
+{
+	id: "3F9FDA01F1D06CA2"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ count: 32, item: "create:brass_ingot" }
+		{ count: 4, item: "minecraft:diamond" }
+		{ count: 2, item: "create:precision_mechanism" }
+	]
+	title: "Sky Crate"
+}

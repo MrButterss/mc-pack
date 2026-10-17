@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "gear"
 	filename: "create_logistics"
 	group: ""
 	icon: {
@@ -60,7 +60,7 @@
 				}
 			]
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -85,13 +85,14 @@
 				}
 			]
 			x: 0.0d
-			y: 4.0d
+			y: 6.0d
 		}
 		{
 			dependencies: [
 				"630ABB7BAC8502FE"
 			]
 			id: "847E80170D54447F"
+			size: 1.5d
 			rewards: [
 				{
 					id: "21BC7C591B706180"
@@ -117,7 +118,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -125,6 +126,7 @@
 				"847E80170D54447F"
 			]
 			id: "0732465779D6DE2F"
+			size: 2.0d
 			rewards: [
 				{
 					id: "780AA530E9942348"
@@ -138,7 +140,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 4.0d
+			x: 6.0d
 			y: 0.0d
 		}
 		{
@@ -163,8 +165,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 2.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -188,8 +190,8 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: 2.0d
+			x: 3.0d
+			y: 3.0d
 		}
 	]
 }

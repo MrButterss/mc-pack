@@ -1,0 +1,11 @@
+{
+	id: "523FE0081802B9B3"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 64, item: "minecraft:oak_log" }
+		{ count: 64, item: "minecraft:cobblestone" }
+		{ count: 32, item: "minecraft:bread" }
+	]
+	title: "Colony Crate"
+}

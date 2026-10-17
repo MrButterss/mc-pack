@@ -1,0 +1,13 @@
+{
+	id: "5D7AE1A2C95C3248"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 1, item: "minecraft:iron_pickaxe" }
+		{ count: 32, item: "minecraft:torch" }
+		{ count: 16, item: "minecraft:bread" }
+		{ count: 32, item: "minecraft:oak_log" }
+		{ count: 1, item: "sophisticatedbackpacks:backpack" }
+	]
+	title: "Starter Kit"
+}
