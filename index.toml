@@ -22,6 +22,10 @@ file = "config/ftbquests/quests/chapters/create_first_spin.snbt"
 hash = "2f729b4e9b562fb481705e18f4bc75d9f074c6d6ff1c8a5e0dcee212d1eae9bf"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/create_homestead.snbt"
+hash = "f6eeaa44ee4a69500f90f30acce174dc99004e03d4a18b62efd500e4deb7f3aa"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/create_logistics.snbt"
 hash = "e7d3d1d82ee6c30a3e875f3555a953c4d569b869abf4e69384fa4ed4b4adf953"
 
@@ -55,7 +59,7 @@ hash = "7c2297ed516f201d94bfb937f5d4d2599c033196991f3681ccc21d720360ac54"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "a48090b974875606076c937557f88d3786c008c56ba6b0b7e1d4928844d14abe"
+hash = "45327a8c580803a24c629da9dce2a45005dac07f70a8c60f29da8d7ac9a55a59"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -76,6 +80,10 @@ hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 [[files]]
 file = "kubejs/server_scripts/bulk_recipes.js"
 hash = "e082a8d364174a977ffddb141a4f33ee97b632da31a887ed03e23d016ab86d95"
+
+[[files]]
+file = "kubejs/server_scripts/create_core.js"
+hash = "18cda7b9d0f99d3393c380fddce100cd9f978d3cd3b72de849599a5cbdbb6255"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"

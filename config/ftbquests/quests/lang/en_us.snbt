@@ -44,6 +44,7 @@
 	quest.F06973FA09363450.quest_desc: [
 		"Put a mixer over a basin to combine ingredients."
 		"JEI shows every mixing recipe."
+		"A heated mixer also boils purified water. See Create Homestead."
 	]
 	quest.8763169A570B1FA1.title: "Brass"
 	quest.8763169A570B1FA1.quest_subtitle: "Heat makes alloys"
@@ -91,6 +92,7 @@
 	quest.3FB761741880D0CD.quest_desc: [
 		"Most crops only grow in some seasons. Their tooltip shows which."
 		"Store food before winter, or build a greenhouse."
+		"A deployer with quartz turns a calendar into a season sensor."
 	]
 	quest.55B85BCE3F1DF0C3.title: "Colony Farmer"
 	quest.55B85BCE3F1DF0C3.quest_subtitle: "Let citizens farm"
@@ -454,5 +456,44 @@
 	quest.DBBD43FBAA8DD937.quest_subtitle: "Optional"
 	quest.DBBD43FBAA8DD937.quest_desc: [
 		"Create Propulsion adds thrusters that push contraptions."
+	]
+	chapter.2423BA4DFF1F35C5.title: "Create Homestead"
+	chapter.2423BA4DFF1F35C5.chapter_subtitle: [
+		"Create machines for water, seasons and the colony"
+	]
+	quest.4F40A43246E31EA0.title: "Clean Water"
+	quest.4F40A43246E31EA0.quest_subtitle: "Boil it in bulk"
+	quest.4F40A43246E31EA0.quest_desc: [
+		"A heated mixer turns a glass bottle and 250 mB of water into purified water."
+		"The water purifier still works if you have no blaze burner yet."
+	]
+	quest.23ACC8CB18EF82CD.title: "Juice Bar"
+	quest.23ACC8CB18EF82CD.quest_subtitle: "Sugar, fruit, purified water"
+	quest.23ACC8CB18EF82CD.quest_desc: [
+		"An unheated mixer makes any Tough As Nails juice."
+		"Put one kind of fruit per basin, or you may get the wrong juice."
+	]
+	quest.B930AF8C03071C5B.title: "Canteen"
+	quest.B930AF8C03071C5B.quest_subtitle: "Carry your water"
+	quest.B930AF8C03071C5B.quest_desc: [
+		"Fill it at a purifier or with purified water to drink on the road."
+	]
+	quest.A1914C5AF7A3E695.title: "Weather Station"
+	quest.A1914C5AF7A3E695.quest_subtitle: "Deploy quartz onto a calendar"
+	quest.A1914C5AF7A3E695.quest_desc: [
+		"A deployer holding quartz turns a calendar into a season sensor."
+		"It outputs redstone by season: automate your greenhouse."
+	]
+	quest.CB323B825C65617A.title: "Colony Logistics"
+	quest.CB323B825C65617A.quest_subtitle: "Wire the warehouse into Create"
+	quest.CB323B825C65617A.quest_desc: [
+		"A deployer holding a gold scepter turns a chest into a warehouse hut, or a smoker into a kitchen hut."
+		"The warehouse stock link lets Create's logistics read and order from the colony warehouse."
+		"The Smart Colony Clipboard turns colony requests into Create orders."
+	]
+	quest.88B4FD158ACA9768.title: "Schematic Workbench"
+	quest.88B4FD158ACA9768.quest_subtitle: "Optional"
+	quest.88B4FD158ACA9768.quest_desc: [
+		"Build colony schematics with Create parts."
 	]
 }
