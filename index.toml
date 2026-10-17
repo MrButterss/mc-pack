@@ -38,6 +38,10 @@ file = "config/sound_physics_aeronautics/soundphysics.properties"
 hash = "1b8a53bc2054e51227f34fa91a92d9763fa5d5bc09904ed6cc1c26808c9db7c2"
 
 [[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
