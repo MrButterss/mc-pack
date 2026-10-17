@@ -1,0 +1,23 @@
+name: release
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+      - run: go install github.com/packwiz/packwiz@latest
+      - run: packwiz refresh
+      - run: packwiz modrinth export -y -o "Create-Colony-Lean-${GITHUB_REF_NAME}.mrpack"
+      - run: packwiz curseforge export -o "Create-Colony-Lean-${GITHUB_REF_NAME}-curseforge.zip"
+      - run: gh release create "$GITHUB_REF_NAME" *.mrpack *.zip --generate-notes
+        env:
+          GH_TOKEN: ${{ github.token }}
