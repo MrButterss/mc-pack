@@ -42,6 +42,10 @@ file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 
 [[files]]
+file = "kubejs/server_scripts/bulk_recipes.js"
+hash = "e082a8d364174a977ffddb141a4f33ee97b632da31a887ed03e23d016ab86d95"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
@@ -1304,6 +1308,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "1500696334c198418def3441b2a5764156c1b68d7de1882d345f61d842dc3d25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
 metafile = true
 
 [[files]]
