@@ -39,10 +39,18 @@ every change as a hypothesis until the pack has booted.
 1. `python tools/check.py` — syntax of TOML/JSON/SNBT/KubeJS, plus a stale-index check. Seconds.
 2. `node dist/projects/mc-pack/tools/check_deps.js` (run from the vault root) — dependency and version
    ranges, read from the real jars in the Prism instance.
-3. Server boot test — **planned** `tools/boot_test.py`, run on the notebook against the Prism instance jars.
-   It will catch wrong-side mods, server-side crashes and mixin failures. Not on GitHub: about 19 CurseForge
-   files are excluded from the API and cannot be downloaded by a bot or redistributed. GitHub `ci` runs step 1 only.
-4. Notebook test launch per `../workflows/test-launch.md`, then the in-game checklist the change needs.
+3. `python tools/check_ids.py` — every `ns:path` id in `kubejs/` and quest `item`/`id`/`icon` fields must
+   exist in a jar (models, blockstates, block loot tables or `en_us` lang keys) or vanilla. Namespaces with no
+   jar assets are listed, not checked. Seconds.
+4. `python tools/boot_test.py` — boots a real NeoForge dedicated server from the Prism instance jars
+   (client-side mods skipped) with this repo's `config/`, `defaultconfigs/`, `kubejs/`, on a fresh world.
+   Fails on a crash (prints the culprit mod from the first mod stack frame) or any KubeJS server error.
+   Catches wrong-side mods, server-side crashes and mixin failures. A few minutes; first run downloads NeoForge.
+   Not on GitHub: about 19 CurseForge files are excluded from the API and cannot be downloaded by a bot or
+   redistributed. GitHub `ci` runs step 1 only.
+   - A culprit that is a renderer, HUD, sound or camera mod → set its `side = "client"`, not remove it.
+   - The Prism instance must be synced to the branch under test first (launch it once, or `packwiz serve`).
+5. Notebook test launch per `../workflows/test-launch.md`, then the in-game checklist the change needs.
 
 ## Reading a crash
 Open the newest `crash-reports/*.txt`, or `logs/latest.log` when there is no report. Find the first

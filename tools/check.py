@@ -46,9 +46,15 @@ def main():
 
     for p in files("*.toml"):
         try:
-            tomllib.loads(p.read_text(encoding="utf-8"))
+            data = tomllib.loads(p.read_text(encoding="utf-8"))
         except Exception as e:
             errors.append(f"{p.relative_to(ROOT)}: TOML {e}")
+            continue
+        rel = p.relative_to(ROOT).as_posix()
+        if rel.startswith("mods/") and data.get("side") not in ("client", "server", "both"):
+            errors.append(f"{rel}: side is {data.get('side')!r}")
+        if rel.startswith(("resourcepacks/", "shaderpacks/")) and data.get("side") != "client":
+            errors.append(f"{rel}: resource/shader pack must be side = \"client\", is {data.get('side')!r}")
 
     for p in files("*.json", "*.mcmeta"):
         try:
@@ -68,17 +74,10 @@ def main():
             break
         r = subprocess.run([node, "--check", str(p)], capture_output=True, text=True)
         if r.returncode:
-            errors.append(f"{p.relative_to(ROOT)}: JS {r.stderr.strip().splitlines()[-1]}")
-
-    for p in files("mods/*.pw.toml"):
-        side = tomllib.loads(p.read_text(encoding="utf-8")).get("side")
-        if side not in ("client", "server", "both"):
-            errors.append(f"{p.relative_to(ROOT)}: side is {side!r}")
-
-    for p in files("resourcepacks/*.pw.toml", "shaderpacks/*.pw.toml"):
-        side = tomllib.loads(p.read_text(encoding="utf-8")).get("side")
-        if side != "client":
-            errors.append(f"{p.relative_to(ROOT)}: resource/shader pack must be side = \"client\", is {side!r}")
+            lines = r.stderr.splitlines()
+            msg = next((l for l in lines if "Error" in l), "syntax error")
+            line = next((l.rsplit(":", 1)[-1] for l in lines if l.startswith(str(p))), "?")
+            errors.append(f"{p.relative_to(ROOT)}: JS line {line}: {msg}")
 
     if "--no-index" not in sys.argv:
         packwiz = shutil.which("packwiz")
