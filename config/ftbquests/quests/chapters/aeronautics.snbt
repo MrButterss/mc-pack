@@ -1,0 +1,189 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aeronautics"
+	group: ""
+	icon: {
+		count: 1
+		id: "aeronautics:andesite_propeller"
+	}
+	id: "20B805B4C2935D77"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"8763169A570B1FA1"
+			]
+			id: "1AFB9F91F3182447"
+			rewards: [
+				{
+					id: "3644F113D687C8ED"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "68A5860A2E8F76D9"
+					item: {
+						count: 1
+						id: "simulated:physics_assembler"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1AFB9F91F3182447"
+			]
+			id: "1ACEB6527AFF72B8"
+			rewards: [
+				{
+					id: "C313F6EBBB161FDA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "8404809693D09B9B"
+					item: {
+						count: 1
+						id: "aeronautics:propeller_bearing"
+					}
+					type: "item"
+				}
+				{
+					id: "479CEA0D8066A177"
+					item: {
+						count: 1
+						id: "aeronautics:andesite_propeller"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1AFB9F91F3182447"
+			]
+			id: "76F281CDB407F3C4"
+			rewards: [
+				{
+					id: "1AC3545870527FB9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "7A7D140D7CD2B096"
+					item: {
+						count: 1
+						id: "aeronautics:white_envelope"
+					}
+					count: 8
+					type: "item"
+				}
+				{
+					id: "C693756FA2C1AC51"
+					item: {
+						count: 1
+						id: "aeronautics:adjustable_burner"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"76F281CDB407F3C4"
+			]
+			id: "64F953A0C77139DB"
+			rewards: [
+				{
+					id: "CF376C92EEB438DB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "29960A1A82933FFA"
+					item: {
+						count: 1
+						id: "aeronautics:levitite"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1ACEB6527AFF72B8"
+				"76F281CDB407F3C4"
+			]
+			id: "8269E868B776366D"
+			rewards: [
+				{
+					id: "398586013FCE448F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "3F0338C2D25272F4"
+					item: {
+						count: 1
+						id: "simulated:steering_wheel"
+					}
+					type: "item"
+				}
+				{
+					id: "4CFB46D3218BC4A4"
+					item: {
+						count: 1
+						id: "simulated:throttle_lever"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"8269E868B776366D"
+			]
+			id: "C2E6579E44CEC5F3"
+			rewards: [
+				{
+					id: "1B2100E17268E7CD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "916D20923EBADA9A"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

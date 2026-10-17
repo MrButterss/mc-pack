@@ -1,0 +1,308 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_first_spin"
+	group: ""
+	icon: {
+		count: 1
+		id: "create:cogwheel"
+	}
+	id: "CB36476307F24238"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "92B60F57049E507A"
+			rewards: [
+				{
+					id: "203BC0F5E074C670"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "4A0AD30711CDCE74"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"92B60F57049E507A"
+			]
+			id: "A9B55688999C1409"
+			rewards: [
+				{
+					id: "A6F635973779D654"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "61FD8EBB5EB36E4A"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+				{
+					id: "8AAC5FFF9569D0F5"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"92B60F57049E507A"
+			]
+			id: "EDD009689B6F9DCA"
+			rewards: [
+				{
+					id: "187449296E9CE006"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "197CF377C80AD822"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+				{
+					id: "1F6D19D6E17FC878"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"A9B55688999C1409"
+			]
+			id: "2C9DE266337A38DB"
+			rewards: [
+				{
+					id: "202D5DE994CB0898"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "E06A2EF085FC3D09"
+					item: {
+						count: 1
+						id: "create:millstone"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"A9B55688999C1409"
+			]
+			id: "32E3EE004F2A3DEE"
+			rewards: [
+				{
+					id: "CFA70CCD1EB50646"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "DA585F3142DD2D36"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"A9B55688999C1409"
+			]
+			id: "2558DCB6CFAE3749"
+			rewards: [
+				{
+					id: "B1D0CECDEF0F597F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "EF309FEF995454C1"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"32E3EE004F2A3DEE"
+			]
+			id: "F06973FA09363450"
+			rewards: [
+				{
+					id: "D0E5E4FFD37A751B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "DF5A1C88B0F2D706"
+					item: {
+						count: 1
+						id: "create:mechanical_mixer"
+					}
+					type: "item"
+				}
+				{
+					id: "494DA4988D2B54AC"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"F06973FA09363450"
+			]
+			id: "8763169A570B1FA1"
+			rewards: [
+				{
+					id: "D262730A41420780"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "C8B90BD22B1D6C2A"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					type: "item"
+				}
+				{
+					id: "1193DA4904B3EC9E"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"8763169A570B1FA1"
+			]
+			id: "7B889BB783A8AA55"
+			rewards: [
+				{
+					id: "C3DC926D28625B2C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "46302372E482C032"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"8763169A570B1FA1"
+			]
+			id: "11C2D6CEA05396F1"
+			rewards: [
+				{
+					id: "D63F5CB99E0F560B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "E9BED65BBF8BF76B"
+					item: {
+						count: 1
+						id: "create:steam_engine"
+					}
+					type: "item"
+				}
+				{
+					id: "94508F922C346475"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					count: 4
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 1.0d
+		}
+	]
+}

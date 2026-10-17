@@ -6,6 +6,26 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
+file = "config/ftbquests/quests/chapters/aeronautics.snbt"
+hash = "0a21aca4597343cc72e7a2a6a28f9b4ce847f212f6cdbc670c64011e17a0b336"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_first_spin.snbt"
+hash = "2f729b4e9b562fb481705e18f4bc75d9f074c6d6ff1c8a5e0dcee212d1eae9bf"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/defence.snbt"
+hash = "3c52df7e39db8cf09d62cdd265355f39401007fba8137f2a8138ceda2f911398"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/food_chain.snbt"
+hash = "057a9006776176156b3d5dabbe88353331d03f613bea2189a80999e6cdcc9a1a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "278e90d7d7e6bf8701a5091636fb42586d70f0a82c7a96d33560f8332f06832b"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "e149b62d1cfdd10008617a2b4da0ec63a99966aefc96f9a1901c4c8ea01b4278"
 
