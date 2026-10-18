@@ -54,7 +54,7 @@ Steps 1 and 3 are enforced by the versioned `pre-push` hook in `.githooks/`. Ena
    redistributed. GitHub `ci` runs step 1 only.
    - A culprit that is a renderer, HUD, sound or camera mod → set its `side = "client"`, not remove it.
    - The Prism instance must be synced to the branch under test first (launch it once, or `packwiz serve`).
-5. Notebook test launch per `../workflows/test-launch.md`, then the in-game checklist the change needs.
+5. Push the branch and test on the main PC per `../workflows/pc-branch-test.md` (notebook launch per `../workflows/test-launch.md` is the fallback), then the in-game checklist the change needs.
 
 ## Reading a crash
 Open the newest `crash-reports/*.txt`, or `logs/latest.log` when there is no report. Find the first
