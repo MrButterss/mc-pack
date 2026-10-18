@@ -1,0 +1,13 @@
+name = "William Wythers' Overhauled Overworld"
+filename = "wwoo-neoforge-2.6.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/II7t6llZ/versions/sU7oaRZv/wwoo-neoforge-2.6.7.jar"
+hash-format = "sha512"
+hash = "25fbb4ba43b4031bf6b17788b95ad1374b5bd512a450c2391b4adcaba726804c43e6f91b1a2139ff2af9ae473d3ae990c4b386c52280e0a2330034f5f1b08572"
+
+[update]
+[update.modrinth]
+mod-id = "II7t6llZ"
+version = "sU7oaRZv"
