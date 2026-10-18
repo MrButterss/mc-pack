@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/footprintparticle.pw.toml"
-hash = "d9fc5501ab126054b04be0728087cc0c1f3f713d02fcdbbc35b2a7082cacea48"
+hash = "9c6665a50883afc5b10dcc0b8fa0eae0acc0a8b05dd345b072cbc3a4e3be89e4"
 metafile = true
 
 [[files]]
