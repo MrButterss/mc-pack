@@ -16,7 +16,7 @@ ASSET = re.compile(r"assets/([a-z0-9_.-]+)/(?:models/item|models/block|blockstat
 DATA = re.compile(r"data/([a-z0-9_.-]+)/loot_tables?/blocks/([a-z0-9_/.-]+)\.json$")
 LANG = re.compile(r"assets/[a-z0-9_.-]+/lang/en_us\.json$")
 LANG_KEY = re.compile(r"^(?:item|block|fluid)\.([a-z0-9_.-]+?)\.([a-z0-9_/.-]+)$")
-JS_ID = re.compile(r"""['"`]([a-z0-9_.-]+):([a-z0-9_/.-]+)['"`]""")
+JS_ID = re.compile(r"""['"`](?:\d+x )?([a-z0-9_.-]+):([a-z0-9_/.-]+)['"`]""")
 SNBT_ID = re.compile(r"""\b(?:item|id|icon)\s*:\s*"([a-z0-9_.-]+):([a-z0-9_/.-]+)\"""")
 SKIP_NS = {"ftbquests", "kubejs", "c", "neoforge", "forge"}
 
