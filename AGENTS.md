@@ -34,12 +34,16 @@ every change as a hypothesis until the pack has booted.
    the user edited them in the FTB in-game editor (then those edits are the source; do not regenerate over them).
 6. **One change, one test.** Several mods added at once make a crash impossible to bisect.
 7. A green CI run is not "it works in-game". Report what CI proved, and list what still needs an in-game check.
+8. Work in a `git worktree` off `main`; the shared checkout may be on another session's branch.
 
 ## Test ladder (stop at the first failure)
-1. `python tools/check.py` — syntax of TOML/JSON/SNBT/KubeJS, plus a stale-index check. Seconds.
+Steps 1 and 3 are enforced by the versioned `pre-push` hook in `.githooks/`. Enable it once per clone with
+`git config core.hooksPath .githooks`.
+
+1. *(enforced on push)* `python tools/check.py` — syntax of TOML/JSON/SNBT/KubeJS, plus a stale-index check. Seconds.
 2. `node dist/projects/mc-pack/tools/check_deps.js` (run from the vault root) — dependency and version
    ranges, read from the real jars in the Prism instance.
-3. `python tools/check_ids.py` — every `ns:path` id in `kubejs/` and quest `item`/`id`/`icon` fields must
+3. *(enforced on push)* `python tools/check_ids.py` — every `ns:path` id in `kubejs/` and quest `item`/`id`/`icon` fields must
    exist in a jar (models, blockstates, block loot tables or `en_us` lang keys) or vanilla. Namespaces with no
    jar assets are listed, not checked. Seconds.
 4. `python tools/boot_test.py` — boots a real NeoForge dedicated server from the Prism instance jars
