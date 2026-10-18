@@ -50,6 +50,15 @@ def client_only_files():
     return names
 
 
+def jar_mismatch(mods_dir):
+    expected, client = set(), set()
+    for p in (ROOT / "mods").glob("*.pw.toml"):
+        data = tomllib.loads(p.read_text(encoding="utf-8"))
+        (client if data.get("side") == "client" else expected).add(data["filename"])
+    present = {j.name for j in Path(mods_dir).glob("*.jar")} - client
+    return sorted(expected - present), sorted(present - expected)
+
+
 def prepare(server, mods_dir, memory):
     for d in ("mods", "world", "crash-reports", "logs", *COPY_DIRS):
         shutil.rmtree(server / d, ignore_errors=True)
@@ -136,6 +145,14 @@ def main():
     ap.add_argument("--memory", default="4G")
     ap.add_argument("--timeout", type=int, default=900)
     args = ap.parse_args()
+    missing, extra = jar_mismatch(args.mods)
+    if missing or extra:
+        for n in missing:
+            print(f"FAIL missing jar: {n}")
+        for n in extra:
+            print(f"FAIL extra jar: {n}")
+        print(f"FAIL {args.mods} does not match mods/*.pw.toml; sync the instance to this branch first")
+        return 1
     server, java = Path(args.server_dir), java_path()
     install_server(server, java)
     copied, skipped = prepare(server, args.mods, args.memory)
