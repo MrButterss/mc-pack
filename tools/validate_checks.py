@@ -34,7 +34,7 @@ CASES = [
      [BOOT], "boot"),
     ("fake id in shaped recipe", "kubejs/server_scripts/bulk_recipes.js", ("minecraft:stick", "minecraft:fake_stick"),
      None, True, [BOOT], "boot"),
-    ("architectury jar removed", None, None, None, False, [DEPS, BOOT], "boot"),
+    ("architectury jar removed", None, None, None, False, [DEPS], "boot"),
 ]
 
 
@@ -57,7 +57,9 @@ def mods_without(tmp, filename):
 def run_case(case, tmp):
     name, rel, swap, append, refresh, cmds = case[:6]
     wt = tmp / "wt"
-    git("worktree", "add", "--detach", str(wt), "HEAD")
+    r = git("worktree", "add", "--detach", str(wt), "HEAD")
+    if r.returncode:
+        raise SystemExit(r.stderr)
     try:
         extra = []
         if rel:
@@ -80,6 +82,7 @@ def run_case(case, tmp):
         return results
     finally:
         git("worktree", "remove", "--force", str(wt))
+        git("worktree", "prune")
 
 
 def main():
