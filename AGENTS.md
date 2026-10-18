@@ -41,7 +41,7 @@ Steps 1 and 3 are enforced by the versioned `pre-push` hook in `.githooks/`. Ena
 `git config core.hooksPath .githooks`.
 
 1. *(enforced on push)* `python tools/check.py` — syntax of TOML/JSON/SNBT/KubeJS, plus a stale-index check. Seconds.
-2. `node dist/projects/mc-pack/tools/check_deps.js` (run from the vault root) — dependency and version
+2. `node dist/projects/mc-pack/tools/check_deps.js` (run from the vault root, after `npm run build` there) — dependency and version
    ranges, read from the real jars in the Prism instance.
 3. *(enforced on push)* `python tools/check_ids.py` — every `ns:path` id in `kubejs/` and quest `item`/`id`/`icon` fields must
    exist in a jar (models, blockstates, block loot tables or `en_us` lang keys) or vanilla. Namespaces with no
