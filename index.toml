@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/firstperson.json"
-hash = "d0d8ee766fae1505213d15b11db2508839d610b932c828667c29340827ae1674"
+hash = "75cd0b25909a7b31c9b14714091648c561526214f9e0f2f2e1edf2a5078fa9de"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
