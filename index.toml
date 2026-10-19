@@ -6,6 +6,10 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
+file = "config/firstperson.json"
+hash = "d0d8ee766fae1505213d15b11db2508839d610b932c828667c29340827ae1674"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
 hash = "5638b3f471edc80690f5bf4d862e720e90af48e0f044a0f67645679c7a15f34a"
 
@@ -1504,6 +1508,10 @@ metafile = true
 file = "resourcepacks/music-and-melody-rp.pw.toml"
 hash = "e5cb2cb6096e6fff97dc25b09d23eab719cc8b66cafdfc26a0137896eaac60a0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/potion-fallback.zip"
+hash = "31341e5d592df05513f077a639849940b7613dfe3d2529db031823397f89fa7b"
 
 [[files]]
 file = "resourcepacks/rails-3d.pw.toml"
