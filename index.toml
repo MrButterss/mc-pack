@@ -6,10 +6,6 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
-file = "config/firstperson.json"
-hash = "75cd0b25909a7b31c9b14714091648c561526214f9e0f2f2e1edf2a5078fa9de"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
 hash = "5638b3f471edc80690f5bf4d862e720e90af48e0f044a0f67645679c7a15f34a"
 
@@ -1237,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-1-21-1.pw.toml"
 hash = "daf2079bb11d6a2ed86bca3454dcb7034308f5cf521b6cd6b03a621f331ec400"
+metafile = true
+
+[[files]]
+file = "mods/tacz-first-person-model-compatibility.pw.toml"
+hash = "80c4438eaaa353ea2449b68bb6817668c695263b51c11e851949d0f3b1bcba84"
 metafile = true
 
 [[files]]

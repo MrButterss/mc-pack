@@ -1,0 +1,13 @@
+name = "TaCZ - First-person Model compatibility"
+filename = "tacz_fpm_compat-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c035758435527aee5e6164a0642751b97827a133"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8379505
+project-id = 1598532
