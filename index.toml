@@ -530,11 +530,6 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "c9f1d5f4883252ca57b26c2fd4264a12f3b407be21097bbfefacdcb9fa9d7e4a"
-metafile = true
-
-[[files]]
 file = "mods/footprintparticle.pw.toml"
 hash = "9c6665a50883afc5b10dcc0b8fa0eae0acc0a8b05dd345b072cbc3a4e3be89e4"
 metafile = true
@@ -1177,11 +1172,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-1-21-1.pw.toml"
 hash = "daf2079bb11d6a2ed86bca3454dcb7034308f5cf521b6cd6b03a621f331ec400"
-metafile = true
-
-[[files]]
-file = "mods/tacz-first-person-model-compatibility.pw.toml"
-hash = "80c4438eaaa353ea2449b68bb6817668c695263b51c11e851949d0f3b1bcba84"
 metafile = true
 
 [[files]]
