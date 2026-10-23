@@ -1,0 +1,13 @@
+name = "3D Rails"
+filename = "3D Rail.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8u5md3f6/versions/xgk7elPn/3D%20Rail.zip"
+hash-format = "sha512"
+hash = "1c24403f7755e1747878deca640e1e98a42e1b0ca3bd71101bc8c4ad7ce2208b0e4db97264125bc8c3a2f03a5fd1b7279f3a64dbac12280a65f04bf6781d4c0e"
+
+[update]
+[update.modrinth]
+mod-id = "8u5md3f6"
+version = "xgk7elPn"

@@ -1,0 +1,13 @@
+name = "Emissive Trims"
+filename = "Emissive Trims v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxUihgVw/versions/4y0PFOJI/Emissive%20Trims%20v1.0.zip"
+hash-format = "sha512"
+hash = "e977a558561ecf1b20b08a2739090879e2308014bbbc2edd5591bca4c3bd873d8f81a21a337289b5f2811964db32b20c0fc9dae20a91e19e899857c2343c66b1"
+
+[update]
+[update.modrinth]
+mod-id = "gxUihgVw"
+version = "4y0PFOJI"
