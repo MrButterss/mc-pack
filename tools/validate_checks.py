@@ -20,7 +20,6 @@ DEPS = ["node", str(VAULT / "dist/projects/mc-pack/tools/check_deps.js")]
 CASES = [
     ("TOML syntax", "mods/appleskin.pw.toml", None, "\nbad = = toml\n", False, [CHECK]),
     ("JSON syntax", "config/xaero/minimap/default_radar_categories_client.json", None, "\n{,\n", False, [CHECK]),
-    ("SNBT unbalanced", "config/ftbquests/quests/chapters/welcome.snbt", None, "\n{\n", False, [CHECK]),
     ("KubeJS syntax", "kubejs/server_scripts/bulk_recipes.js", None, "\nfunction (\n", False, [CHECK]),
     ("resource pack side both", "resourcepacks/fancy-crops.pw.toml", ('side = "client"', 'side = "both"'), None,
      True, [CHECK]),
@@ -28,8 +27,6 @@ CASES = [
     ("stale index", "kubejs/server_scripts/bulk_recipes.js", None, "\n// stale\n", False, [CHECK_CI]),
     ("fake KubeJS id", "kubejs/server_scripts/bulk_recipes.js", ("minecraft:stick", "minecraft:fake_stick"), None,
      True, [IDS]),
-    ("fake quest id", "config/ftbquests/quests/chapters/aeronautics.snbt",
-     ("aeronautics:andesite_propeller", "aeronautics:fake_propeller"), None, True, [IDS]),
     ("sodium-extra side both", "mods/sodium-extra.pw.toml", ('side = "client"', 'side = "both"'), None, True,
      [BOOT], "boot"),
     ("fake id in shaped recipe", "kubejs/server_scripts/bulk_recipes.js", ("minecraft:stick", "minecraft:fake_stick"),

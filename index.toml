@@ -6,62 +6,6 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
-file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "5638b3f471edc80690f5bf4d862e720e90af48e0f044a0f67645679c7a15f34a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/arsenal.snbt"
-hash = "b15a79b9b9f3ac6397b12eebab64b695d836863175c9896091f327db50b1ef93"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/create_addons.snbt"
-hash = "388ff3df2e26e5b3a84c497a055fcdb76e63e441c3f957f68e0ff777862f3a28"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/create_first_spin.snbt"
-hash = "2f729b4e9b562fb481705e18f4bc75d9f074c6d6ff1c8a5e0dcee212d1eae9bf"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/create_homestead.snbt"
-hash = "f6eeaa44ee4a69500f90f30acce174dc99004e03d4a18b62efd500e4deb7f3aa"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/create_logistics.snbt"
-hash = "e7d3d1d82ee6c30a3e875f3555a953c4d569b869abf4e69384fa4ed4b4adf953"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/defence.snbt"
-hash = "3c52df7e39db8cf09d62cdd265355f39401007fba8137f2a8138ceda2f911398"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/delights.snbt"
-hash = "c0a5c43f17466987536ca83c6be73915ec41cd1d2dfb7563f39ec19ebc7e3836"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "0a9a8496611d5e714404e29ce523e4f10800e9dbf4c3aedf0ba91cab433b6aab"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/food_chain.snbt"
-hash = "057a9006776176156b3d5dabbe88353331d03f613bea2189a80999e6cdcc9a1a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/seasons_survival.snbt"
-hash = "6aad1abce7e3e62e7f289858e9bfa52bfc147916eafc9bc677f73ce462977d29"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/storage_building.snbt"
-hash = "97dcf7927432caffb1f220031a0e686d2c9f39336123a8d6a5f841d1c4be632d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "7c2297ed516f201d94bfb937f5d4d2599c033196991f3681ccc21d720360ac54"
-
-[[files]]
-file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "45327a8c580803a24c629da9dce2a45005dac07f70a8c60f29da8d7ac9a55a59"
-
-[[files]]
 file = "config/jei/jei-client.ini"
 hash = "e149b62d1cfdd10008617a2b4da0ec63a99966aefc96f9a1901c4c8ea01b4278"
 
