@@ -115,11 +115,6 @@ hash = "14fc298432c296bfd4fbfd542290d305e9f58c8281310e681009de49f20f8c75"
 metafile = true
 
 [[files]]
-file = "mods/blockpalette-studio.pw.toml"
-hash = "666560b1ea5bde4a61157aefe2bffc427de152cc52b2c23ea0688529a8bf2219"
-metafile = true
-
-[[files]]
 file = "mods/blockui.pw.toml"
 hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
 metafile = true
