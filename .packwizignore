@@ -5,3 +5,4 @@ tools/
 AGENTS.md
 CLAUDE.md
 .githooks/
+HANDOFF*.md
