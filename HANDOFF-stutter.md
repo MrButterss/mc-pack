@@ -26,6 +26,18 @@ The 2026-10-19 spark run showed the server side healthy (median 14 ms per tick),
 3. Apply fixes 1–3, then play again. Is it smooth now?
 4. Only if it isn't: test 4–5 one at a time.
 
+## Also: music (user approved 2026-10-24)
+- Goal: the normal Minecraft soundtrack (C418 + the rest), with a few new songs mixed in at random, not replacing it.
+- Checked on the notebook: `music-and-melody-1.21-r3.0.zip` already mixes them. Its `music.game` list has 26 tracks: 20 point to vanilla, 6 are its own extras (`legacy:`). Keep it.
+- Remove **Reactive Music** (`packwiz remove reactive-music`): it replaces vanilla song choice with its own fantasy/celtic songpack. Keep YACL, since other mods need it.
+- Keep Simple Music Control (gap between songs, skip key).
+- In-game check: over about 20 minutes, mostly familiar C418 songs plus a few new ones.
+- Unverified: whether Music and Melody dropped any vanilla 1.21 songs from its lists.
+
+## Also: faster item-move animation (user wants it faster)
+- The animation is Smooth Swapping 0.9.3.2. Its config on the notebook, `config/smoothswapping.json`, has `"animation_speed": 100`, and the pack ships no config for it.
+- Try `200` in-game. If it gets slower, the scale is reversed (unverified): go below 100 instead. Then ship the value you pick as `config/smoothswapping.json` in the pack.
+
 ## Rules
 - Change pack files on a branch (`perf-stutter`), test on the PC via the branch URL, and merge to `main` only after the user OKs it. See `AGENTS.md`.
 - Push the branch so the notebook can pull it. Delete this file when done.
