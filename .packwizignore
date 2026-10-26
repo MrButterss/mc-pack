@@ -6,3 +6,16 @@ AGENTS.md
 CLAUDE.md
 .githooks/
 HANDOFF*.md
+
+# Disabled for stutter test (perf-stutter): Sable idle physics cost, see ryanhcode/sable#1594.
+# Re-enable by deleting these lines, then `packwiz refresh`.
+mods/sable.pw.toml
+mods/create-aeronautics.pw.toml
+mods/create-aeronautics-lift-patch.pw.toml
+mods/create-propulsion-simulated.pw.toml
+mods/sable-floaters.pw.toml
+mods/copycats-aeronautics-weight.pw.toml
+mods/sound-physics-aeronautics.pw.toml
+mods/create-linear-bearing.pw.toml
+mods/create-tracks.pw.toml
+config/sound_physics_aeronautics/
