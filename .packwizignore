@@ -19,3 +19,7 @@ mods/sound-physics-aeronautics.pw.toml
 mods/create-linear-bearing.pw.toml
 mods/create-tracks.pw.toml
 config/sound_physics_aeronautics/
+
+# Disabled: replaces vanilla song choice with its own songpack. Music and Melody
+# resource pack already mixes extras into the vanilla soundtrack. Delete to re-enable.
+mods/reactive-music.pw.toml

@@ -18,6 +18,10 @@ file = "config/minecolonies-server.toml"
 hash = "1367b6d0e147f41ddc3575e5c89fd8882f66f5cb72446052b487e82f86e3bd28"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "44171cea914db83f7debb6b63cede869e8e8270e00056aecdb9145392adf9ec2"
+
+[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 
@@ -887,11 +891,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "23c73e3682d1c326619a4180d3d242cf96c8fcb8fd1d83cabfa077b962adc0e7"
-metafile = true
-
-[[files]]
-file = "mods/reactive-music.pw.toml"
-hash = "b0eaa9f9d88d583de0929a74835d38a2a837ec34b4d78b1fe75068ca011eca42"
 metafile = true
 
 [[files]]
