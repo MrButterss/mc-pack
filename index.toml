@@ -6,6 +6,10 @@ hash = "ec05a5f5bc7e0f4a29ec1c4c3ee31baef494e91f60e8239bd0e781f8f23d1b61"
 metafile = true
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "486242d1eceb90f77cee6ea0cb8948003d8edc658a811a968c8581362ab16ae9"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "e149b62d1cfdd10008617a2b4da0ec63a99966aefc96f9a1901c4c8ea01b4278"
 
