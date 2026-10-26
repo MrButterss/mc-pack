@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "486242d1eceb90f77cee6ea0cb8948003d8edc658a811a968c8581362ab16ae9"
+hash = "268bc179ac7f313eb91397a2a4bff729671cd10d570c7aefafbb62ffdab0b2df"
 
 [[files]]
 file = "config/jei/jei-client.ini"
