@@ -10,6 +10,10 @@ file = "config/DistantHorizons.toml"
 hash = "268bc179ac7f313eb91397a2a4bff729671cd10d570c7aefafbb62ffdab0b2df"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "b9a784e1d3c995ec20ef6b44ea5d9a2423fed91c0359feceea7a1d87df0f6c99"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "e149b62d1cfdd10008617a2b4da0ec63a99966aefc96f9a1901c4c8ea01b4278"
 
