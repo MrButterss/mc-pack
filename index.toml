@@ -18,10 +18,6 @@ file = "config/minecolonies-server.toml"
 hash = "1367b6d0e147f41ddc3575e5c89fd8882f66f5cb72446052b487e82f86e3bd28"
 
 [[files]]
-file = "config/sound_physics_aeronautics/soundphysics.properties"
-hash = "1b8a53bc2054e51227f34fa91a92d9763fa5d5bc09904ed6cc1c26808c9db7c2"
-
-[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 
@@ -214,11 +210,6 @@ hash = "338fd079b0c5a2c603ba4606114064dd910617371db86f6e46bc0d351b0d7cd5"
 metafile = true
 
 [[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -246,16 +237,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "f13994485d9005720181e64c20c8b20204edea6749030877fdcbe0b6fd6de443"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-lift-patch.pw.toml"
-hash = "f8a8bf8c2bdc8d39c0cf0ff5248476fae137af4836390489b1d2fe2af7237e16"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
 metafile = true
 
 [[files]]
@@ -319,11 +300,6 @@ hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
 
 [[files]]
-file = "mods/create-linear-bearing.pw.toml"
-hash = "386bb916f6ad29a4ccae107ae211ae8af79d589bd9b8c4d3876d997b0f077220"
-metafile = true
-
-[[files]]
 file = "mods/create-minecolonies-smart-clipboard.pw.toml"
 hash = "400ba6236d234f22bf0d70f7340af650e3f66c1d1d97d94e57f597b4b3ec9fc9"
 metafile = true
@@ -339,11 +315,6 @@ hash = "a997a99ed9988b4d88c1e9275860d6ad7fbef5f883a54d050f1d7aae91f5fd24"
 metafile = true
 
 [[files]]
-file = "mods/create-propulsion-simulated.pw.toml"
-hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
-metafile = true
-
-[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "9891aff5079b8cdb5e4a910e7a490ed9d5e4e6f883ca86da119ccf4e81227d08"
 metafile = true
@@ -351,11 +322,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "0ec6556e7e1c8d7b5ee522656adcd51ff59629e589409128241794f7d677c422"
-metafile = true
-
-[[files]]
-file = "mods/create-tracks.pw.toml"
-hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -969,16 +935,6 @@ hash = "282654c07a0b3f41387fbe990649148d26b3f9c7c895cd0b43652df3adc78e61"
 metafile = true
 
 [[files]]
-file = "mods/sable-floaters.pw.toml"
-hash = "f50579c8c000c01fbbc365ed70b512889d4fb5a141118f08248e8a46ae77a80c"
-metafile = true
-
-[[files]]
-file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -1061,11 +1017,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "1e4dd7bcdaa5fa5c66ebb3d10ed34992c8009294b048eaaa310377f10e1a733d"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-aeronautics.pw.toml"
-hash = "a2e8a89a1218f742eb315ae56229b458b7bfc4b852cfa41dc641ea223463f936"
 metafile = true
 
 [[files]]
