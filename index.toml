@@ -22,6 +22,10 @@ file = "config/minecolonies-server.toml"
 hash = "1367b6d0e147f41ddc3575e5c89fd8882f66f5cb72446052b487e82f86e3bd28"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "6735d5314257fb38bcadd26d6cebda2f1449dda2c97269c660be742c70cdcb11"
+
+[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 
