@@ -138,6 +138,11 @@ hash = "e5c9649e2e622248382ac05979512e14e652b32fe31e592db3b4aef9fc2a9488"
 metafile = true
 
 [[files]]
+file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
+hash = "c9bfb203572f19a1a6d02d1770fd35f5bc7fa55317a43e5637c5e1a14b383851"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "65a5507210eb65784bf6abb87ba8a95bd69e76654a2ef999cb1a15e1a40d0af0"
 metafile = true
