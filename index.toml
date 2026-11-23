@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
+hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
@@ -225,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "01da292df7176f26fece73fe7d49d2e2faa7ee25f88d4764613ddef9c77c11f7"
 metafile = true
 
 [[files]]
@@ -418,6 +423,11 @@ hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
 metafile = true
 
 [[files]]
+file = "mods/diegesis-api.pw.toml"
+hash = "9657923b8c4aadeb79f9f6a2be9fe1ba3525bb9b90034f56065b5bb334be5bb7"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "063634f47239896738fe3c27d33e3449f6f69cdef4400e2852240b2acf5fdfab"
 metafile = true
@@ -600,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
+metafile = true
+
+[[files]]
+file = "mods/handson-delight.pw.toml"
+hash = "621e0a1091125863885e510b0e017caba26c3810015b6db436a5260ede203128"
 metafile = true
 
 [[files]]
@@ -843,6 +858,11 @@ hash = "bc7a4ab61009d53b80e1888f9040555aecb089452360d48f4623902ed6fed142"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "156c0d34d5eb2cd6fdb07ee606770fc2f2a6867923ba4eed313e40042ca560ae"
 metafile = true
@@ -963,6 +983,11 @@ hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "ac9db8b319aa7a53d06c5209998dcf8a2d9a6bd17fbd14c3f6dd859727d434a7"
+metafile = true
+
+[[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
 hash = "282654c07a0b3f41387fbe990649148d26b3f9c7c895cd0b43652df3adc78e61"
 metafile = true
@@ -1070,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "cd2c6fa89eecaaa1aadf369b043ceb45e99778cacd590e3fc01b0dcae2e6557d"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "4ce7b2b172bcaa1e82f43362f12ebfa791612432351912f7c47ed3993033ddc0"
 metafile = true
 
 [[files]]
