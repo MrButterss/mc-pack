@@ -108,8 +108,18 @@ hash = "1b05fef3e281c8c9bdaa86a4e1b21ced7b363424df48c34a9494ec723c618d1f"
 metafile = true
 
 [[files]]
+file = "mods/bakeries-renyigesai.pw.toml"
+hash = "b08954df02e2c4303db7935414daed155241e9a9d72b2ef24ece338fcbe3e852"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
+metafile = true
+
+[[files]]
+file = "mods/barbeques-delight-forge.pw.toml"
+hash = "1b8eb6843f324324f30e7d135e25ab89939e93ddd91421282fb6f0f358ec50c1"
 metafile = true
 
 [[files]]
@@ -383,6 +393,11 @@ hash = "4bd3667f570f82fb1480f173ffb6259876f4620de3a085fb8d7a442d214c5b51"
 metafile = true
 
 [[files]]
+file = "mods/cuisine-delight.pw.toml"
+hash = "26784abefec817842c33d2ea799966f46fdfd68a74e606b5c9552186f478da0d"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "821a71c553197625f1f8e09c9ac2fc7f509dfac837918fbc68c5f6bc50db2636"
 metafile = true
@@ -400,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "063634f47239896738fe3c27d33e3449f6f69cdef4400e2852240b2acf5fdfab"
 metafile = true
 
 [[files]]

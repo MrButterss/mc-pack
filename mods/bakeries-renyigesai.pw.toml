@@ -1,0 +1,13 @@
+name = "Bakeries"
+filename = "bakeries-1.21.1-NeoForge-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZugnklTp/versions/BdnWrv5w/bakeries-1.21.1-NeoForge-1.0.7.jar"
+hash-format = "sha512"
+hash = "07878804e0a260f9b6ff69b3f8d2c7d5f5d07e5073a847a2774c3fd24b01445adaf833b450140e6112bc7d4a1ec1a1261d1e050b34cf25dd3511d1a42b1867aa"
+
+[update]
+[update.modrinth]
+mod-id = "ZugnklTp"
+version = "BdnWrv5w"
