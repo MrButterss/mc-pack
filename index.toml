@@ -30,6 +30,46 @@ file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "2dea0f9f70eaf25dc6ddcb91ed90da410de7a88af4bd04dd602d7211ff689fe5"
 
 [[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/atlantic_cod_spawn_ocean.json"
+hash = "72f47cfade3287c6c309a01f6029944d6bdf1cc4d373d6c0d0500848facf798e"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/atlantic_halibut_spawn.json"
+hash = "32249d5a597f1308d573442573d6def6e95484cb56dc7acca97e3b4cf8085cee"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/atlantic_herring_spawn.json"
+hash = "27b4f4b70d4a35d433e3656b942c5fce13d90c8ccc68b36c7dfd8b1e169becd7"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/blackfish_spawn_ocean.json"
+hash = "8b42fd45018937f124733b172b7d665a4fe7408f4c5a98332cb2c4130b534722"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/jellyfish_spawn.json"
+hash = "1c5d877c23b3e996aace1f736636fa93906b5cf38e079081d11753fa293f4e85"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/pacific_halibut_spawn_ocean.json"
+hash = "0023ed0f0e18114b9fe029cb923816428ac02fef67caa6659922432787cbe6ee"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/pollock_spawn_ocean.json"
+hash = "c87c4df7893cbc18a5e9c2b64bc1ff061d76af16caa94043ac1a87293fb65e7d"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/rainbow_trout_spawn_ocean.json"
+hash = "b3aba5592b52db1a1f6ed170a5027b1b3bf08fd8b4aac7965687edc1fb7f148a"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/red_grouper_spawn.json"
+hash = "be5cdc2c28920b0fb9f81f86b50c9c03794147bc9cc3388b79e99b97f6778915"
+
+[[files]]
+file = "kubejs/data/aquaculture/neoforge/biome_modifier/tuna_spawn.json"
+hash = "57d3c121060076e5f102e9c0c169515febd95788d9e9607bff89f5da3370ded3"
+
+[[files]]
 file = "kubejs/server_scripts/bulk_recipes.js"
 hash = "e082a8d364174a977ffddb141a4f33ee97b632da31a887ed03e23d016ab86d95"
 
@@ -618,6 +658,16 @@ hash = "621e0a1091125863885e510b0e017caba26c3810015b6db436a5260ede203128"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-api.pw.toml"
+hash = "fdc55b26800127cafd9a88b2bd03615fc49ced589cffb036145d98c029af437f"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "af60f4cd6512a46528cc606f854354c6a261a79bdf2ced261b89b42905bbd7c0"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
@@ -1185,6 +1235,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "003fc4f0346ef9fc643692f85236055b820830a531bc284275c3cc7a4ce7c8b3"
+metafile = true
+
+[[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "3f15db8f2305460e5a0ff65ba3ff2e8ab2cf6226a13e1ad3ac186c2ac666e832"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "7b4d98d9a07495eb4c8e7181a6fbff38ffed9cec7995104937cd17b764dcd9e0"
 metafile = true
 
 [[files]]

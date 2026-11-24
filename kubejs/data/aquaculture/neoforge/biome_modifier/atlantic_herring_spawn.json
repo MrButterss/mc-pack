@@ -1,0 +1,17 @@
+{
+  "type": "aquaculture:fish_spawn",
+  "spawn": {
+    "type": "aquaculture:atlantic_herring",
+    "weight": 40,
+    "minCount": 1,
+    "maxCount": 6
+  },
+  "includeBiomes": [
+    "#c:is_ocean",
+    "#c:is_beach"
+  ],
+  "excludeBiomes": [
+    "#c:is_hot"
+  ],
+  "and": false
+}

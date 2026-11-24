@@ -1,0 +1,17 @@
+{
+  "type": "aquaculture:fish_spawn",
+  "spawn": {
+    "type": "aquaculture:rainbow_trout",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 2
+  },
+  "includeBiomes": [
+    "#c:is_cold",
+    "#c:is_ocean"
+  ],
+  "excludeBiomes": [
+    "#aquaculture:empty"
+  ],
+  "and": true
+}

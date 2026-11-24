@@ -1,0 +1,17 @@
+{
+  "type": "aquaculture:fish_spawn",
+  "spawn": {
+    "type": "aquaculture:atlantic_halibut",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  "includeBiomes": [
+    "#c:is_ocean",
+    "#c:is_beach"
+  ],
+  "excludeBiomes": [
+    "#c:is_hot"
+  ],
+  "and": false
+}
