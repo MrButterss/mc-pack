@@ -78,6 +78,10 @@ file = "kubejs/server_scripts/create_core.js"
 hash = "18cda7b9d0f99d3393c380fddce100cd9f978d3cd3b72de849599a5cbdbb6255"
 
 [[files]]
+file = "kubejs/server_scripts/food_unify.js"
+hash = "e5662053e95875f1010dea831938e08aa9a426a39691cd7f673d733e2c3d8db4"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
@@ -770,6 +774,26 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "76806236c79f5437953100c618c15aaba2c4e349e29d83113286bb808c687683"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-foundation.pw.toml"
+hash = "eede425f26764e520d80d6d76f132b450eab91b1c3ac642b62f2e613444a3818"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "4b9615192f59c2c77291e11c1fba829d94866758816424c8c3ac072d89c875bc"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "04c83d18406bb973b64b44e68e3156993789dfe88bb3b912decefc57a6b34db5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "9ea5eb69af8278115237331a30c9692f338c614d4f09479581fc4eaf28312150"
 metafile = true
 
 [[files]]

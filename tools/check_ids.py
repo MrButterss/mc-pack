@@ -14,6 +14,7 @@ VANILLA = PRISM / "libraries" / "com" / "mojang" / "minecraft" / "1.21.1" / "min
 
 ASSET = re.compile(r"assets/([a-z0-9_.-]+)/(?:models/item|models/block|blockstates)/([a-z0-9_/.-]+)\.json$")
 DATA = re.compile(r"data/([a-z0-9_.-]+)/loot_tables?/blocks/([a-z0-9_/.-]+)\.json$")
+TAG = re.compile(r"data/([a-z0-9_.-]+)/tags/[a-z_]+/([a-z0-9_/.-]+)\.json$")
 LANG = re.compile(r"assets/[a-z0-9_.-]+/lang/en_us\.json$")
 LANG_KEY = re.compile(r"^(?:item|block|fluid)\.([a-z0-9_.-]+?)\.([a-z0-9_/.-]+)$")
 JS_ID = re.compile(r"""['"`](?:\d+x )?([a-z0-9_.-]+):([a-z0-9_/.-]+)['"`]""")
@@ -27,7 +28,7 @@ def scan_jar(data, ids, namespaces):
             if name.endswith(".jar"):
                 scan_jar(z.read(name), ids, namespaces)
                 continue
-            m = ASSET.search(name) or DATA.search(name)
+            m = ASSET.search(name) or DATA.search(name) or TAG.search(name)
             if m:
                 ids.add(f"{m[1]}:{m[2]}")
                 namespaces.add(m[1])
