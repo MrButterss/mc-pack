@@ -512,6 +512,11 @@ hash = "36ca501773cbda3b0df3ab3fec5188337fe4f4dd7918dcf0a7fbb5965b1c41c8"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "03a2f273597c1d2bef87eaa60af9287d7d54ec68cc0a0d4b5b79e1497b16ad3e"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials-shader-support.pw.toml"
 hash = "35bc6c2a64cc29e69ece8f15d1f6ed3cb00295d6c79b0acddcd381386f2227e8"
 metafile = true
@@ -909,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "cf98a93ea429786de97d9d7b70c72468909e0b9d1799def65b7c29c419c8d362"
 metafile = true
 
 [[files]]
