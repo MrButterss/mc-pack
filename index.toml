@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
-hash = "4712dc4804fde8c24d7c4bf3b2c582ce3f4d3c0d079567a3c57526066a827da2"
+hash = "b7d31ef3c974dc6aaca7bbbc775d9e609bb287de76550da54f05e8f22d157fe9"
 metafile = true
 
 [[files]]
