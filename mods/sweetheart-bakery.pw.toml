@@ -1,0 +1,13 @@
+name = "Sweetheart Bakery"
+filename = "sweetheart-bakery-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e25a4c4f84102ec4c19aae49bdf51b6ab4fa076"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9778190
+project-id = 1810784

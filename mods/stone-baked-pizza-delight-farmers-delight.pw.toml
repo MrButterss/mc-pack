@@ -1,0 +1,13 @@
+name = "Stone-Baked Pizza Delight (Farmer's Delight & Some Assembly Required)"
+filename = "stone-baked-pizza-delight-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "761c83b2b7074544eec6325eb61dd5af2ba2f200"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9758602
+project-id = 1821540

@@ -447,6 +447,11 @@ hash = "26784abefec817842c33d2ea799966f46fdfd68a74e606b5c9552186f478da0d"
 metafile = true
 
 [[files]]
+file = "mods/culinary-construct-neoforge.pw.toml"
+hash = "5646ac24cd28efa2ea4837b3ee7874dd6bbf77a079c12d7e1bf19c89799cdbd9"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "821a71c553197625f1f8e09c9ac2fc7f509dfac837918fbc68c5f6bc50db2636"
 metafile = true
@@ -1137,6 +1142,11 @@ hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
 metafile = true
 
 [[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
+metafile = true
+
+[[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
 metafile = true
@@ -1202,6 +1212,11 @@ hash = "74224a1a64ddca85ae25c47096685800fdbc5736cb3f549980c61321603d6c33"
 metafile = true
 
 [[files]]
+file = "mods/stone-baked-pizza-delight-farmers-delight.pw.toml"
+hash = "1a69a11043fdbb39300dff5b0f46da363c9e19555f84d9ba1cc67cc78314e061"
+metafile = true
+
+[[files]]
 file = "mods/stonecutting-upgrade.pw.toml"
 hash = "7515226107755c4dedf5ad49a43b265d32e4809f0e797a077b110eb0c1abd872"
 metafile = true
@@ -1259,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
+metafile = true
+
+[[files]]
+file = "mods/sweetheart-bakery.pw.toml"
+hash = "7673d566063d114c6356efcb440cf21d89d466cd9855b03bee83ad7b660b6391"
 metafile = true
 
 [[files]]

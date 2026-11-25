@@ -1,0 +1,13 @@
+name = "Culinary Construct: NeoForge"
+filename = "culinaryconstruct-7.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "862ffb1047f9af6b62c33459630612b2bae50be3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9703921
+project-id = 1817203
